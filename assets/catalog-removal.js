@@ -23,6 +23,22 @@ var CatalogRemoval = (() => {
   toggle.addEventListener('click',()=>{removed=!removed;refresh();});
   undo.addEventListener('click',()=>{if(!last)return;if(last.wasHidden)hidden.add(last.id);else hidden.delete(last.id);if(last.wasRestored)restored.add(last.id);else restored.delete(last.id);last=null;save();refresh();status.textContent='Change undone.';toggle.focus({preventScroll:true});});
   refresh();
+  if(topic.id==='harrison-clothes-contenders'){
+   const exportButton=document.createElement('button');exportButton.type='button';exportButton.textContent='Export selections';exportButton.title='Download this browser’s full order and removed selections. Nothing is uploaded.';
+   exportButton.addEventListener('click',()=>{
+    const order=CatalogOrder.snapshot(grid);
+    const payload={schemaVersion:1,topicId:topic.id,...order,
+     orderScope:order.hasManualOrder?'Full saved manual order, including removed and filtered items':'Full current sort order; no manual order saved',
+     effectiveRemovedProductIds:order.fullOrderProductIds.filter(id=>hidden.has(id)),
+     defaultHiddenProductIds:[...defaults],explicitlyRestoredDefaultProductIds:[...defaults].filter(id=>restored.has(id)),
+     view:{sort:document.querySelector('.research-sort [aria-pressed="true"]')?.dataset.sort||null,search:document.querySelector('input[type=search]').value,category:document.querySelector('.catalog-categories [aria-pressed="true"]')?.dataset.categoryFilter||'All',removedView:removed,visibleProductIds:[...grid.children].filter(card=>!card.hidden&&card.dataset.productId).map(card=>card.dataset.productId)},
+     storageAvailable:persistent};
+    const url=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)+'\n'],{type:'application/json'}));
+    const link=document.createElement('a');link.href=url;link.download=topic.id+'-selections.json';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+    status.textContent='Selections exported. Attach the JSON file in chat; nothing was uploaded.';
+   });
+   bar.insertBefore(exportButton,status);
+  }
  }
  return {attach};
 })();

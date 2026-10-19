@@ -1,6 +1,7 @@
 /* Local per-topic manual order. No server writes or cross-device sync. */
 var CatalogOrder = (() => {
  'use strict';
+ const snapshots=new WeakMap();
  function reconcile(saved, ids) {const valid=new Set(ids);return [...new Set([...(Array.isArray(saved)?saved:[]).filter(id=>valid.has(id)),...ids])];}
  function mergeVisible(base, visible) {const set=new Set(visible);let i=0;return base.map(id=>set.has(id)?visible[i++]:id);}
  function attach(topic, grid, applySort) {
@@ -34,7 +35,8 @@ var CatalogOrder = (() => {
   motion.addEventListener('change',()=>sortable.option('animation',motion.matches?0:160));
   new MutationObserver(updateHandles).observe(grid,{subtree:true,attributes:true,attributeFilter:['hidden']});
   if(manual){arrange(manual);setPressed();}else updateHandles();
+  snapshots.set(grid,()=>({fullOrderProductIds:[...(manual||ordered())],hasManualOrder:manual!==null}));
   return {clearPressed(){manualButton.setAttribute('aria-pressed','false');updateHandles();}};
  }
- return {reconcile,mergeVisible,attach};
+ return {reconcile,mergeVisible,attach,snapshot(grid){return snapshots.get(grid)?.();}};
 })();
