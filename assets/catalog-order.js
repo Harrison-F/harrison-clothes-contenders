@@ -9,11 +9,11 @@ var CatalogOrder = (() => {
   const nodes=new Map([...grid.children].map(el=>[topic.products[Number(el.dataset.productIndex)].id,el]));
   const ids=[...nodes.keys()];let saved=null,before=[],suppressUntil=0;
   try {saved=JSON.parse(localStorage.getItem(key));} catch (_) {}
-  let manual=Array.isArray(saved)?reconcile(saved,ids):null;
+  let manual=Array.isArray(saved)&&(topic.defaultSort!=='curated'||saved.some(id=>nodes.has(id)))?reconcile(saved,ids):null;
   const status=document.createElement('span');status.className='sr-only';status.setAttribute('role','status');grid.before(status);
   const bar=document.querySelector('.research-sort');
   const manualButton=document.createElement('button');manualButton.type='button';manualButton.dataset.sort='manual';manualButton.textContent='My order';manualButton.title='Saved in this browser only';manualButton.setAttribute('aria-pressed','false');
-  const reset=document.createElement('button');reset.type='button';reset.className='order-reset';reset.textContent='Reset order';reset.title='Clear this browser’s saved order and restore the default';bar.append(manualButton,reset);
+  const reset=document.createElement('button');reset.type='button';reset.className='order-reset';reset.textContent='Reset order';reset.title=topic.defaultSort==='curated'?'Clear this browser’s saved order and restore shared Checkpoint 1 default order':'Clear this browser’s saved order and restore the default';bar.append(manualButton,reset);
   function ordered(){return [...grid.children].filter(el=>el.dataset.productId).map(el=>el.dataset.productId);}
   function setPressed(){bar.querySelectorAll('[data-sort]').forEach(b=>b.setAttribute('aria-pressed',String(b===manualButton)));}
   function arrange(order){order.forEach(id=>grid.append(nodes.get(id)));updateHandles();}
@@ -25,7 +25,7 @@ var CatalogOrder = (() => {
    h.addEventListener('keydown',event=>{if(!['ArrowUp','ArrowDown','Home','End'].includes(event.key))return;event.preventDefault();event.stopPropagation();const base=ordered(),visible=base.filter(x=>!nodes.get(x).hidden),from=visible.indexOf(id);const to=event.key==='Home'?0:event.key==='End'?visible.length-1:Math.max(0,Math.min(visible.length-1,from+(event.key==='ArrowUp'?-1:1)));visible.splice(from,1);visible.splice(to,0,id);save(mergeVisible(base,visible));h.focus();});
   });
   manualButton.addEventListener('click',()=>{if(manual){arrange(manual);setPressed();}else save(ordered());});
-  reset.addEventListener('click',()=>{manual=null;try {localStorage.removeItem(key);}catch(_){}applySort(topic.defaultSort==='merchant'?'merchant':'price');manualButton.setAttribute('aria-pressed','false');updateHandles();status.textContent='Default order restored.';});
+  reset.addEventListener('click',()=>{manual=null;try {localStorage.removeItem(key);}catch(_){}applySort(['merchant','curated'].includes(topic.defaultSort)?topic.defaultSort:'price');manualButton.setAttribute('aria-pressed','false');updateHandles();status.textContent='Default order restored.';});
   grid.addEventListener('click',e=>{if(Date.now()<suppressUntil){e.preventDefault();e.stopPropagation();}},true);
   const motion=matchMedia('(prefers-reduced-motion: reduce)');
   const sortable=new Sortable(grid,{draggable:'.display-card:not([hidden])',handle:'.reorder-handle',delay:220,delayOnTouchOnly:false,touchStartThreshold:5,forceFallback:true,fallbackOnBody:true,fallbackTolerance:4,animation:motion.matches?0:160,ghostClass:'order-ghost',chosenClass:'order-chosen',dragClass:'order-drag',scroll:true,scrollSensitivity:70,scrollSpeed:8,

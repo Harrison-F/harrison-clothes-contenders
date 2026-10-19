@@ -1854,7 +1854,8 @@
       "contender-16"
     ]
   },
-  "defaultSort": "merchant",
+  "defaultSort": "curated",
+  "defaultOrderProductIds": ["contender-15", "contender-02", "contender-06", "contender-07", "contender-01", "contender-14", "contender-05", "contender-08", "contender-11", "contender-23", "contender-29", "contender-26", "contender-27", "contender-20", "contender-25", "contender-38", "contender-31", "contender-36", "contender-12", "contender-10", "contender-17", "contender-39", "contender-24", "contender-42"],
   "merchantOrder": [
     "UNIQLO",
     "ZARA",
