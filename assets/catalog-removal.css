@@ -1,0 +1,5 @@
+.clothing-catalog .catalog-removal {display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:0 0 24px;font-size:13px;}
+.clothing-catalog .catalog-removal button,.clothing-catalog .remove-item {min-width:44px;min-height:44px;padding:0 12px;border:1px solid var(--line);background:white;color:var(--ink);font:13px Arial,sans-serif;cursor:pointer;}
+.clothing-catalog .remove-item {margin-top:8px;}
+.clothing-catalog .removal-note {color:var(--muted);}
+.clothing-catalog .catalog-removal button:hover,.clothing-catalog .remove-item:hover {background:#f3f4f5;}

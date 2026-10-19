@@ -1,0 +1,120 @@
+.research .missing-product-image {display:flex;align-items:center;justify-content:center;flex-direction:column;height:100%;padding:24px;text-align:center;box-sizing:border-box;}
+.research .display-template {grid-template-columns:repeat(2,minmax(0,1fr));}
+@media(max-width:600px){.research .display-template {grid-template-columns:minmax(0,1fr);}}
+.research .intro {padding-top:48px;}
+.research .intro h1 {font-size:clamp(48px,6vw,76px);line-height:1;}
+.research .intro p {width:min(760px,100%);}
+.research .research-updated {font-size:14px;margin-top:16px;}
+.research .research-recommendation {border-left:3px solid var(--accent);padding:4px 0 4px 22px;margin:0 0 32px;max-width:860px;}
+.research .research-recommendation h2 {font:400 30px/1.1 Georgia,serif;margin:0 0 12px;}
+.research .research-recommendation p,.research .research-notes p {color:#bebfba;line-height:1.6;}
+.research .research-search {margin:0 0 24px;max-width:520px;}
+.research .research-search input {padding-left:16px;}
+.research .portrait-wrap {display:block;width:100%;border:0;padding:0;background:#fff;}
+.research .portrait-wrap::after {display:none;}
+.research .portrait {object-fit:contain;}
+.research .display-card:hover .portrait {transform:none;}
+.research .research-verdict {color:var(--accent);margin:14px 0 0;font-size:14px;}
+.research .bio {font-size:16px;margin-top:14px;}
+.research .research-facts {margin:22px 0 0;}
+.research .research-facts dt {font-weight:650;color:var(--ink);margin:18px 0 6px;}
+.research .research-facts dd {margin:0;color:#bebfba;font-size:15px;line-height:1.55;}
+.research .research-details {margin-top:22px;border-top:1px solid var(--line);padding-top:8px;}
+.research .research-details summary {cursor:pointer;min-height:44px;display:flex;align-items:center;color:var(--ink);}
+.research .research-details summary::before {content:'＋';margin-right:8px;color:var(--accent);}
+.research .research-details[open] summary::before {content:'−';}
+.research .research-details p {color:var(--muted);font-size:14px;line-height:1.5;}
+.research .research-details a {display:inline-block;padding:8px 0;line-height:1.4;}
+.research .research-notes {max-width:850px;margin-top:36px;}
+.research .research-notes h2 {font:400 28px/1.2 Georgia,serif;}
+.research .research-image-dialog {width:min(1100px,calc(100% - 32px));max-height:94vh;padding:20px;}
+.research .research-image-dialog img {display:block;width:100%;max-height:70vh;object-fit:contain;margin-top:20px;background:white;}
+.research .research-image-dialog h2 {font-size:28px;}
+.research .research-image-dialog p {color:var(--muted);line-height:1.5;}
+.research:has(dialog[open]) {overflow:hidden;}
+.research .research-error {padding:50px 0;}
+
+/* Opt-in compact natural-basics comparison; legacy topics stay two-column. */
+.research .natural-basics .display-template {grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;}
+.research .natural-basics .intro {padding-top:28px;padding-bottom:24px;}
+.research .natural-basics .intro h1 {font-size:clamp(38px,5vw,58px);}
+.research .natural-basics .card-body {padding:16px 14px;}
+.research .natural-basics .identity h2 {font-size:25px;line-height:1.1;}
+.research .natural-basics .bio,.research .natural-basics .research-facts dd {font-size:14px;line-height:1.45;}
+.research .natural-basics .research-facts {margin-top:12px;}
+.research .natural-basics .research-facts dt {font-size:13px;margin:12px 0 4px;}
+.research .natural-basics .research-details {margin-top:16px;}
+.research .natural-basics .gallery-controls {padding:6px;gap:4px;flex-wrap:wrap;}
+.research .natural-basics .gallery-count {min-width:36px;font-size:12px;}
+.research .natural-basics .gallery-expand {padding:0 10px;}
+.research .natural-basics .research-sort {display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:0 0 20px;}
+.research .natural-basics .research-sort button {min-height:44px;padding:0 16px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--ink);font:inherit;cursor:pointer;}
+.research .natural-basics .research-sort button[aria-pressed="true"] {background:var(--accent);color:#101410;border-color:var(--accent);}
+.research .natural-basics .research-sort button:hover {border-color:var(--accent);}
+.research .natural-basics .research-sort button:focus-visible {outline:2px solid var(--accent);outline-offset:3px;}
+.research .natural-basics .research-sort span {font-size:13px;color:var(--muted);}
+@media(max-width:1100px){.research .natural-basics .display-template {grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media(max-width:600px){.research .natural-basics .display-template {grid-template-columns:minmax(0,1fr);}}
+
+/* Product galleries retain the accepted square image geometry. */
+.research .identity .product-title-link {margin:0;color:var(--ink);}
+.research .identity .product-title-link:hover {color:var(--accent);}
+.research .gallery-controls {display:flex;align-items:center;gap:8px;padding:8px 12px;border-bottom:1px solid var(--line);}
+.research .gallery-arrow,.research .gallery-expand {min-width:44px;min-height:44px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--ink);cursor:pointer;font:inherit;}
+.research .gallery-arrow:hover,.research .gallery-expand:hover {background:#292d27;}
+.research .gallery-expand {margin-left:auto;padding:0 16px;font-size:13px;}
+.research .gallery-count {font-size:13px;color:var(--muted);min-width:48px;text-align:center;}
+.research .product-photo-link:focus-visible {outline:3px solid var(--accent);outline-offset:-4px;}
+.research .gallery-controls button:focus-visible,.research .product-title-link:focus-visible {outline:2px solid var(--accent);outline-offset:3px;}
+
+/* Clothing-only editorial catalog. Shared/other research topics retain their theme. */
+body.research.clothing-catalog {--ink:#162438;--muted:#536071;--dim:#536071;--accent:#162438;--line:#d9dce0;background:#fff;color:var(--ink);font-family:Arial,sans-serif;}
+.clothing-catalog .shell {width:100%;max-width:none;padding:0 32px 48px;margin:0;}
+.clothing-catalog .topbar {padding:8px 0;border-bottom:1px solid var(--line);}
+.clothing-catalog .brand {font:400 20px/1.2 Georgia,serif;letter-spacing:0;text-transform:none;}
+.clothing-catalog .secondary-button {font:400 13px/1.4 Arial,sans-serif;border-radius:0;background:#fff;color:var(--ink);}
+.research.clothing-catalog .natural-basics .intro {padding:32px 0 24px;}
+/* A&F supplied reference: headline data-size=40; screenshot hierarchy approximated
+   in local Georgia at 48px desktop, scaling to 34px on narrow phones. */
+.research.clothing-catalog .natural-basics .intro h1 {font:400 clamp(34px,4.5vw,48px)/1.15 Georgia,serif;letter-spacing:0;overflow-wrap:break-word;}
+.clothing-catalog .intro p {font-size:13px;line-height:1.5;color:var(--muted);margin:8px 0 0;width:auto;}
+.clothing-catalog .research-recommendation {display:none;}
+.clothing-catalog .catalog-categories {display:flex;align-items:center;gap:24px;border-bottom:1px solid var(--line);margin-bottom:16px;flex-wrap:wrap;}
+.clothing-catalog .catalog-categories button {min-height:44px;border:0;border-bottom:2px solid transparent;background:none;padding:0;color:var(--ink);font:13px Arial,sans-serif;cursor:pointer;}
+.clothing-catalog .catalog-categories button[aria-pressed=true] {border-bottom-color:var(--ink);font-weight:700;}
+.clothing-catalog #catalog-count {margin-left:auto;font-size:12px;color:var(--muted);}
+.clothing-catalog .research-search {min-height:44px;border:0;border-radius:0;background:white;display:inline-block;width:300px;max-width:100%;margin:0 16px 16px 0;vertical-align:top;}
+.clothing-catalog .research-search input {height:44px;border:1px solid var(--line);border-radius:0;background:white;color:var(--ink);font-size:13px;}
+.research.clothing-catalog .natural-basics .research-sort {display:inline-flex;margin-bottom:24px;}
+.research.clothing-catalog .natural-basics .research-sort button {border-radius:0;font-size:13px;}
+.research.clothing-catalog .natural-basics .research-sort button[aria-pressed=true] {color:var(--ink);background:#f3f4f5;border-color:var(--ink);}
+.research.clothing-catalog .natural-basics .display-template {gap:32px 16px;align-items:start;}
+.clothing-catalog .display-card {border:0;border-radius:0;background:white;box-shadow:none;position:relative;}
+.clothing-catalog .reorder-handle {position:absolute;z-index:2;right:6px;top:6px;width:44px;height:44px;border:0;border-radius:50%;background:rgba(255,255,255,.88);color:var(--ink);font:24px/1 Arial,sans-serif;cursor:grab;touch-action:none;user-select:none;}
+.clothing-catalog .reorder-handle:hover,.clothing-catalog .reorder-handle:focus-visible {background:#fff;outline:2px solid var(--ink);outline-offset:1px;}
+.clothing-catalog .order-ghost {opacity:.25;outline:2px dashed var(--ink);}
+.clothing-catalog .order-chosen {outline:2px solid var(--ink);}
+.clothing-catalog .order-drag {opacity:.92;box-shadow:0 12px 28px #16243830;}
+.clothing-catalog.catalog-dragging .reorder-handle {cursor:grabbing;}
+.research.clothing-catalog .natural-basics .research-sort {flex-wrap:wrap;max-width:100%;gap:6px;}
+.clothing-catalog .order-reset {color:var(--muted);}
+@media(prefers-reduced-motion:reduce){.clothing-catalog .display-card {transition:none!important;}}
+.clothing-catalog [hidden] {display:none!important;}
+.research.clothing-catalog .portrait-wrap {aspect-ratio:8/9;background:#f5f5f3;}
+.research.clothing-catalog .portrait {object-fit:contain;}
+.research.clothing-catalog .natural-basics .card-body {padding:12px 0 0;}
+.research.clothing-catalog .natural-basics .identity h2 {font:400 18px/1.4 Georgia,serif;letter-spacing:0;}
+.clothing-catalog .card-body>p {font-size:14px;line-height:1.5;margin:6px 0 0;color:var(--ink);}
+.clothing-catalog .card-body>.catalog-price {font-size:22px;line-height:1.35;font-family:Georgia,serif;}
+.clothing-catalog .card-body>.catalog-material {color:var(--muted);font-size:14px;}
+.clothing-catalog .card-body>.catalog-deal {color:#9b2727;font-size:14px;}
+.research.clothing-catalog .natural-basics .gallery-controls {padding:0;border:0;gap:4px;}
+.clothing-catalog .gallery-controls button {border:0;border-radius:0;font-size:12px;background:white;}
+.clothing-catalog .gallery-controls button:hover {background:#f0f1f3;}
+.research.clothing-catalog .natural-basics .research-details {margin-top:8px;border:0;padding:0;}
+.clothing-catalog .research-details summary {font-size:14px;}
+.clothing-catalog .research-notes p {font-size:13px;color:var(--muted);}
+.clothing-catalog .research-image-dialog {background:white;color:var(--ink);border:1px solid var(--line);border-radius:0;}
+.clothing-catalog button:focus-visible,.clothing-catalog input:focus-visible {outline:2px solid var(--ink);outline-offset:3px;}
+.clothing-catalog::before,.clothing-catalog::after {display:none;}
+@media(max-width:600px){.clothing-catalog .shell {padding:0 16px 32px;}.clothing-catalog .catalog-categories {gap:18px;}.clothing-catalog #catalog-count {width:100%;margin:0 0 8px;}.clothing-catalog .research-search {width:100%;}}

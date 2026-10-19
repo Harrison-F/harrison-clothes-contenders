@@ -1,0 +1,3184 @@
+{
+  "id": "harrison-clothes-contenders",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Harrison clothes contenders",
+  "summary": "15 user-selected products; three requested removals apply to this collection only; both selected jackets retained with caveats.",
+  "updated": "2026-10-18",
+  "recommendation": {},
+  "products": [
+    {
+      "id": "contender-02",
+      "name": "Abercrombie · Denim Button-Up Shirt",
+      "url": "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3",
+      "category": "Shirt",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Cream",
+      "verdict": "Shirt",
+      "summary": "",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-02-01.webp",
+      "imageAlt": "Denim Button-Up Shirt — Cream — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 2 images exposed.",
+      "images": [
+        {
+          "src": "assets/images/contender-02-01.webp",
+          "alt": "Denim Button-Up Shirt — Cream — retailer gallery 1",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6497-00460-101_life1?policy=product-extra-large"
+        },
+        {
+          "src": "assets/images/contender-02-02.webp",
+          "alt": "Denim Button-Up Shirt — Cream — retailer gallery 2",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6497-00460-101_prod1?policy=product-extra-large"
+        }
+      ],
+      "materialCaveat": "Main fabric verified; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Cream; product ID 63144867. Details & Material expanded; S and Regular selected. Embedded exact variant 670559727: Available, quantity 371. Complete orderedImages gallery extracted for selected product only.",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Price": "$85.00 USD; shipping/tax extra",
+        "Fit": "S / Regular requested",
+        "Status": "S / Regular available"
+      },
+      "sources": [
+        "contender-02"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "deal": "$50 Off $150+ or $25 Off $100 In App; US/CA app only, Oct 16–19, 2026; exclusions apply."
+    },
+    {
+      "id": "contender-05",
+      "name": "Abercrombie · 100% Cotton Waffle Roll Neck Crew Sweater",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11",
+      "category": "Sweater",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Black",
+      "verdict": "Sweater",
+      "summary": "",
+      "unitPriceUSD": 59.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-05-01.webp",
+      "imageAlt": "100% Cotton Waffle Roll Neck Crew Sweater — Black — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 1 images exposed.",
+      "images": [
+        {
+          "src": "assets/images/contender-05-01.webp",
+          "alt": "100% Cotton Waffle Roll Neck Crew Sweater — Black — retailer gallery 1",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6116-00729-900_prod1?policy=product-extra-large"
+        }
+      ],
+      "materialCaveat": "Main fabric verified; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Black; product ID 63491867. Details & Material expanded; S and Regular selected. Embedded exact variant 672277336: Available, quantity 66. Complete orderedImages gallery extracted for selected product only.",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Price": "$59.50 USD; shipping/tax extra",
+        "Fit": "S / Regular requested",
+        "Status": "S / Regular available"
+      },
+      "sources": [
+        "contender-05"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "deal": "Was $85.00; now $59.50. $50 Off $150+ or $25 Off $100 In App; US/CA app only, Oct 16–19, 2026; exclusions apply."
+    },
+    {
+      "id": "contender-06",
+      "name": "Abercrombie · Classic Essential Tee",
+      "url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?faceout=model&seq=10&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=15",
+      "category": "T-shirts",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Light Heather Grey",
+      "verdict": "T-shirts",
+      "summary": "",
+      "unitPriceUSD": 25,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-06-01.webp",
+      "imageAlt": "Classic Essential Tee — Light Heather Grey — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 1 images exposed.",
+      "images": [
+        {
+          "src": "assets/images/contender-06-01.webp",
+          "alt": "Classic Essential Tee — Light Heather Grey — retailer gallery 1",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6074-00794-118_prod1?policy=product-extra-large"
+        }
+      ],
+      "materialCaveat": "Main fabric verified; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Light Heather Grey; product ID 62421858. Details & Material expanded; S and Regular selected. Embedded exact variant 665781358: Available, quantity 714. Complete orderedImages gallery extracted for selected product only.",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Price": "$25.00 USD; shipping/tax extra",
+        "Fit": "S / Regular requested",
+        "Status": "S / Regular available"
+      },
+      "sources": [
+        "contender-06"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?faceout=model&seq=10&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=15"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "deal": "$50 Off $150+ or $25 Off $100 In App; US/CA app only, Oct 16–19, 2026; exclusions apply."
+    },
+    {
+      "id": "contender-07",
+      "name": "Abercrombie · 100% Merino Wool Crew Sweater",
+      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=14",
+      "category": "Sweater",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Gray",
+      "verdict": "Sweater",
+      "summary": "",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-07-01.webp",
+      "imageAlt": "100% Merino Wool Crew Sweater — Gray — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 2 images exposed.",
+      "images": [
+        {
+          "src": "assets/images/contender-07-01.webp",
+          "alt": "100% Merino Wool Crew Sweater — Gray — retailer gallery 1",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6273-00814-110_prod1?policy=product-extra-large"
+        },
+        {
+          "src": "assets/images/contender-07-02.webp",
+          "alt": "100% Merino Wool Crew Sweater — Gray — retailer gallery 2",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6273-00814-110_prod2?policy=product-extra-large"
+        }
+      ],
+      "materialCaveat": "Main fabric verified; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Gray; product ID 63757998. Details & Material expanded; S and Regular selected. Embedded exact variant 672276069: Available, quantity 33. Complete orderedImages gallery extracted for selected product only.",
+      "facts": {
+        "Fabric": "BODY: 100% MERINO WOOL",
+        "Price": "$85.00 USD; shipping/tax extra",
+        "Fit": "S / Regular requested",
+        "Status": "S / Regular available"
+      },
+      "sources": [
+        "contender-07"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=14"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "deal": "$50 Off $150+ or $25 Off $100 In App; US/CA app only, Oct 16–19, 2026; exclusions apply."
+    },
+    {
+      "id": "contender-08",
+      "name": "Abercrombie · 100% Cashmere Rib Beanie",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?faceout=prod&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=175",
+      "category": "Accessories",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Light Brown",
+      "verdict": "Accessories",
+      "summary": "",
+      "unitPriceUSD": 55,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-08-01.webp",
+      "imageAlt": "100% Cashmere Rib Beanie — Light Brown — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 1 images exposed.",
+      "images": [
+        {
+          "src": "assets/images/contender-08-01.webp",
+          "alt": "100% Cashmere Rib Beanie — Light Brown — retailer gallery 1",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_112-6232-00137-400_prod1?policy=product-extra-large"
+        }
+      ],
+      "materialCaveat": "Main fabric verified; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Light Brown; product ID 63718392. Details & Material expanded; One-size variant. Embedded exact variant 671317869: Available, quantity 1218. Complete orderedImages gallery extracted for selected product only.",
+      "facts": {
+        "Fabric": "100% CASHMERE",
+        "Price": "$55.00 USD; shipping/tax extra",
+        "Fit": "One size",
+        "Status": "One size available"
+      },
+      "sources": [
+        "contender-08"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?faceout=prod&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=175"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-09",
+      "name": "COS · COTTON-CHAMBRAY SHIRT",
+      "url": "https://www.cos.com/en-us/men/menswear/shirts/casualshirts/product/cotton-chambray-shirt-grey-mlange-1351093001",
+      "category": "Shirt",
+      "brand": "COS",
+      "store": "COS",
+      "color": "Grey mélange",
+      "verdict": "Shirt",
+      "summary": "",
+      "unitPriceUSD": 129,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-09-01.webp",
+      "imageAlt": "The gray long-sleeve shirt is being worn, featuring a spread collar and buttoned cuffs. Its front is partially unbuttoned, revealing a white undershirt.",
+      "imageNote": "Complete selected-article US product media: 10 non-swatch images, including eight rendered gallery slides plus two descriptive packshot/detail assets. Excludes fabric swatch and recommendations.",
+      "images": [
+        {
+          "src": "assets/images/contender-09-01.webp",
+          "alt": "The gray long-sleeve shirt is being worn, featuring a spread collar and buttoned cuffs. Its front is partially unbuttoned, revealing a white undershirt.",
+          "source": "https://media.cos.com/assets/001/23/1c/231ca41c392570ecd0543040db7e9ee264318132_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-02.webp",
+          "alt": "A dark gray textured shirt is being presented, featuring a classic collar and long sleeves with buttoned cuffs. It is worn open over a white T-shirt, showing a relaxed fit.",
+          "source": "https://media.cos.com/assets/001/24/d3/24d3dc17255554e0742863085b96bc9ed3aadb25_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-03.webp",
+          "alt": "The gray shirt is shown in side profile, featuring a classic collar, long sleeves with buttoned cuffs, and a relaxed fit, worn untucked over a white T-shirt.",
+          "source": "https://media.cos.com/assets/001/9d/74/9d749b8589603533cd03918f3021392369d1ff05_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-04.webp",
+          "alt": "A gray long-sleeve shirt is shown from the back, highlighting a classic collar, a back yoke, and two pleats below the yoke. It features buttoned cuffs and a curved hem.",
+          "source": "https://media.cos.com/assets/001/77/be/77bebabca5d167e78cbec849c3f86a3e16ea531e_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-05.webp",
+          "alt": "A gray woven shirt is being worn, seen from a slight front-right angle, featuring a pointed collar and a stitched front placket. The top button is currently unfastened, revealing an open neckline.",
+          "source": "https://media.cos.com/assets/001/54/a0/54a0fe521a8042624eb720e271e387274ec4642c_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-06.webp",
+          "alt": "A dark gray textured cotton chambray men's shirt is shown from the front, featuring a standard collar, concealed placket, long sleeves with cuffs, and a tailored curved hem, with a regular fit.",
+          "source": "https://media.cos.com/assets/001/f7/ca/f7ca19d7491ace61fca42aa36b8e3529a844f510_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-07.webp",
+          "alt": "A dark gray chambray shirt features a pointed collar and a concealed placket on the front. A single dark button is visible at the top of the placket.",
+          "source": "https://media.cos.com/assets/001/68/d0/68d09e318ca9ee895347d9676737a0661c631cc7_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-08.webp",
+          "alt": "The gray cotton chambray shirt is shown from the front, featuring a classic point collar, a concealed button placket, and long sleeves with button cuffs. It is worn tucked into black trousers, highlighting its relaxed fit and smooth woven texture.",
+          "source": "https://media.cos.com/assets/001/d4/b1/d4b17aa53ff0af3ea42190516379ea03aab8995d_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-09.webp",
+          "alt": "A dark gray cotton chambray shirt is shown from the front, featuring a standard collar, long sleeves with rolled cuffs, and a concealed placket.",
+          "source": "https://media.cos.com/assets/001/76/f1/76f10cf4500342957542163e63571cd803dccdc8_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-10.webp",
+          "alt": "The gray Cotton Chambray Shirt, shown from the front, is worn unbuttoned over a black T-shirt and features a pointed collar and slightly rolled-up cuffs. It is paired with dark green Pleated Relaxed-Fit Tapered Pants that fall in a wide, relaxed silhouette with front pleats and a slightly tapered hem.",
+          "source": "https://media.cos.com/assets/001/ab/ba/abba57ba8dcf6d69c1be6ce4299586ca32e5b023_xxl-1.jpg"
+        }
+      ],
+      "materialCaveat": "Shell 100% cotton; seashell buttons. Other trims unspecified.",
+      "attribution": "Mac dedicated Brave returned COS patience page; fresh dedicated Linux Brave rendered the exact US product normally. Live US embedded product confirms $129, shell 100% cotton, and exact size stock. Official US size guide maps 14½ and 15 to S. Prior Thailand evidence retained as secondary provenance; US now verified. No CAPTCHA or human action required.",
+      "facts": {
+        "Fabric": "Shell: 100% cotton (US product; corroborates Thailand exact article)",
+        "Price": "$129.00 USD; shipping/tax extra",
+        "Fit": "S maps to US neck 14½ / EU 37 and US 15 / EU 38 in the official size guide.",
+        "Status": "US 15 / EU 38 (S) available: 2 left; US 14½ / EU 37 (S) sold out."
+      },
+      "sources": [
+        "contender-09",
+        "cos-regional"
+      ],
+      "sourceLinks": [
+        "https://www.cos.com/en-us/men/menswear/shirts/casualshirts/product/cotton-chambray-shirt-grey-mlange-1351093001"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-11",
+      "name": "Massimo Dutti · 100% Wool Pants With Waist Detail",
+      "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045&colorId=802",
+      "category": "Pants",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Grey",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-11-grey-01.webp",
+      "imageAlt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-11-grey-01.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/fc72/e1fb/86fb49e89471/617a1e00e539/00187011802-o6/00187011802-o6.jpg?ts=1790848395185"
+        },
+        {
+          "src": "assets/images/contender-11-grey-02.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/3aa8/a0eb/464747899d11/97ac0171c436/00187011802-o1/00187011802-o1.jpg?ts=1789980243158"
+        },
+        {
+          "src": "assets/images/contender-11-grey-03.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/69ec/11ce/d8884589b505/538ef73256b4/00187011802-o7/00187011802-o7.jpg?ts=1790848391576"
+        },
+        {
+          "src": "assets/images/contender-11-grey-04.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/b52c/bff5/fe754d0b9e9f/be0390013c90/00187011802-o2/00187011802-o2.jpg?ts=1789980240519"
+        },
+        {
+          "src": "assets/images/contender-11-grey-05.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/e987/ece6/147a4886ac34/759b665c2ccf/00187011802-o8/00187011802-o8.jpg?ts=1790848391273"
+        },
+        {
+          "src": "assets/images/contender-11-grey-06.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/2ca4/6f64/e2ac41a98b0f/ab67b7bd1f34/00187011802-o3/00187011802-o3.jpg?ts=1789980237938"
+        },
+        {
+          "src": "assets/images/contender-11-grey-07.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/1eda/ee39/a8bd46d28c9d/5e8c2dec32f1/00187011802-o4/00187011802-o4.jpg?ts=1789980243514"
+        },
+        {
+          "src": "assets/images/contender-11-grey-08.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/e920/c27a/d11d4e768b1a/d833b12a35a0/00187011802-o9/00187011802-o9.jpg?ts=1790848392216"
+        },
+        {
+          "src": "assets/images/contender-11-grey-09.webp",
+          "alt": "100% Wool Pants With Waist Detail — Grey — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/0118/49ef/366849058987/703da739d9cf/00187011802-o5/00187011802-o5.jpg?ts=1789980243144"
+        }
+      ],
+      "materialCaveat": "100% wool outer shell; lining and trim fiber composition not disclosed. Elastic-back waist; exact W30 × L32 not verified.",
+      "attribution": "Exact supplied US URL rendered HTTP 200 with Grey selected: colorId 802, catentry 64340046; pelement 64340045 retained exactly. Live size-selector agrees with S/M/L SHOW and XL COMING_SOON. 100% wool outer shell; lining and trim fiber composition not disclosed. Elastic-back waist; exact W30 × L32 not verified.",
+      "facts": {
+        "Fabric": "Outer shell: 100% wool. Lining and trim fibers not disclosed; elastic at back waist.",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "Alpha S–XL, not waist/inseam variants. S: waist 75 cm; inner thigh length 79 cm (retailer dimensions). Not a verified W30 × L32.",
+        "Status": "Grey S, M and L available; XL Coming Soon. No exact W30 × L32 stock claim."
+      },
+      "sources": [
+        "contender-11"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045&colorId=802"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": false,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-14",
+      "url": "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008?pelement=66534132",
+      "category": "Pants",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "summary": "",
+      "sources": [
+        "contender-14"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008?pelement=66534132"
+      ],
+      "name": "Massimo Dutti · Double-Pleated Relaxed Fit Pants",
+      "color": "Navy Blue",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-14-01.webp",
+      "imageAlt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 1",
+      "images": [
+        {
+          "src": "assets/images/contender-14-01.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/ac9b/a7b1/55b0487cb28d/3124192c1f4e/00127008401-o6/00127008401-o6.jpg?ts=1790582982828"
+        },
+        {
+          "src": "assets/images/contender-14-02.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/48d7/e61e/1eda48ebb82b/6906ce66430a/00127008401-o1/00127008401-o1.jpg?ts=1790601934258"
+        },
+        {
+          "src": "assets/images/contender-14-03.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/5ceb/fbd7/568a492a90b8/829bddb5faaf/00127008401-o7/00127008401-o7.jpg?ts=1790582983684"
+        },
+        {
+          "src": "assets/images/contender-14-04.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/449b/d690/ad41446f90ee/5dafcbc9400b/00127008401-o2/00127008401-o2.jpg?ts=1790601934657"
+        },
+        {
+          "src": "assets/images/contender-14-05.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/212f/5c4a/95884a3a8331/3df899460291/00127008401-o8/00127008401-o8.jpg?ts=1790582983654"
+        },
+        {
+          "src": "assets/images/contender-14-06.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/1b5b/5eca/a5ae4cd5b7fa/103d5081bbcb/00127008401-o3/00127008401-o3.jpg?ts=1790601934054"
+        },
+        {
+          "src": "assets/images/contender-14-07.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/5ce8/996b/893c43d28148/da0abc3ab0e9/00127008401-o4/00127008401-o4.jpg?ts=1790601934963"
+        },
+        {
+          "src": "assets/images/contender-14-08.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/5307/235a/b6184d5aa5a4/19da2e2129fa/00127008401-o9/00127008401-o9.jpg?ts=1790582983697"
+        },
+        {
+          "src": "assets/images/contender-14-09.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/fb90/8379/d52245319ca7/fb7fc2738834/00127008401-o5/00127008401-o5.jpg?ts=1790601934247"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "materialCaveat": "Navy Blue is outside the gray-to-black pants preference. Exact 30 × 32 not verified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Navy Blue is outside the gray-to-black pants preference. Exact 30 × 32 not verified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "30 waist offered; listed inner-thigh length 78 cm, not a verified 32-inch inseam",
+        "Status": "30 available; exact 30 × 32 not verified"
+      },
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": false,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "verdict": "Pants"
+    },
+    {
+      "id": "contender-15",
+      "url": "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144",
+      "category": "Sweater",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "summary": "",
+      "sources": [
+        "contender-15"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144"
+      ],
+      "name": "Massimo Dutti · 100% Wool Cable-Knit Sweater",
+      "color": "Mink",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-15-01.webp",
+      "imageAlt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 1",
+      "images": [
+        {
+          "src": "assets/images/contender-15-01.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/1ffa/49be/d8754fca9b44/44dd39a0f0e5/01416222779-o6/01416222779-o6.jpg?ts=1791386077030"
+        },
+        {
+          "src": "assets/images/contender-15-02.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/a102/0ae8/16b441169c3e/bf652789f22c/01416222779-o1/01416222779-o1.jpg?ts=1789980248290"
+        },
+        {
+          "src": "assets/images/contender-15-03.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/c6fb/e58e/6a40474691d5/8bd125c3e133/01416222779-o7/01416222779-o7.jpg?ts=1791386078358"
+        },
+        {
+          "src": "assets/images/contender-15-04.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/a6a8/5271/905b4791bdd8/4887ee1693fb/01416222779-o2/01416222779-o2.jpg?ts=1789980247679"
+        },
+        {
+          "src": "assets/images/contender-15-05.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/c85b/0a18/0d0e4877974c/00f6a9b40644/01416222779-o8/01416222779-o8.jpg?ts=1791386078049"
+        },
+        {
+          "src": "assets/images/contender-15-06.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/46a5/3237/d325482084bc/46a2a2274ff7/01416222779-o3/01416222779-o3.jpg?ts=1789980246222"
+        },
+        {
+          "src": "assets/images/contender-15-07.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/2652/3212/1b8e4d6baf27/c5c3926f2268/01416222779-o4/01416222779-o4.jpg?ts=1789980247542"
+        },
+        {
+          "src": "assets/images/contender-15-08.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/5326/9b2a/7742409ca1f7/36416478a16e/01416222779-o9/01416222779-o9.jpg?ts=1791386077872"
+        },
+        {
+          "src": "assets/images/contender-15-09.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/8866/5325/a8204db195fd/c6d5ea102656/01416222779-o5/01416222779-o5.jpg?ts=1789980247349"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "materialCaveat": "Wool composition excludes elastic; trim fibers unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Wool composition excludes elastic; trim fibers unspecified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; EXCLUSIVE OF ELASTIC",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "verdict": "Sweater"
+    },
+    {
+      "id": "contender-10",
+      "name": "Massimo Dutti · 100% Wool High Neck Down Jacket",
+      "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Brown Tones",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 590.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-10-01.webp",
+      "imageAlt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-10-01.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/7d49/04be/842c44e8a794/b0554eb21ee4/03270428041-o6/03270428041-o6.jpg?ts=1790777474137"
+        },
+        {
+          "src": "assets/images/contender-10-02.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/c439/ea9d/ba794adca973/d10c41edf6d9/03270428041-o1/03270428041-o1.jpg?ts=1790781728545"
+        },
+        {
+          "src": "assets/images/contender-10-03.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/5e4b/9f46/26a5439c9296/45f2ab1d4d8a/03270428041-o7/03270428041-o7.jpg?ts=1790777474585"
+        },
+        {
+          "src": "assets/images/contender-10-04.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/b180/5f1c/f0334afe8cff/198447ff0b33/03270428041-o2/03270428041-o2.jpg?ts=1790781729075"
+        },
+        {
+          "src": "assets/images/contender-10-05.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/1354/6474/102c45b9a065/dfdf1fa6ca6e/03270428041-o8/03270428041-o8.jpg?ts=1790777474241"
+        },
+        {
+          "src": "assets/images/contender-10-06.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/8ac6/a8fd/f1f74c9eb067/fe8313e1e7f9/03270428041-o3/03270428041-o3.jpg?ts=1790781728228"
+        },
+        {
+          "src": "assets/images/contender-10-07.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/371b/bcab/387146628116/c2988d82bba4/03270428041-o4/03270428041-o4.jpg?ts=1790781728546"
+        },
+        {
+          "src": "assets/images/contender-10-08.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/cbf8/b504/02564298b624/f9e342cd371c/03270428041-o9/03270428041-o9.jpg?ts=1790777475169"
+        },
+        {
+          "src": "assets/images/contender-10-09.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/088d/2100/766d4b84b3b1/5b0068ad3d01/03270428041-o5/03270428041-o5.jpg?ts=1790781728876"
+        }
+      ],
+      "materialCaveat": "100% polyamide lining; filling 80% grey duck down / 20% feather.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. 100% polyamide lining; filling 80% grey duck down / 20% feather.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; Lining: 100% polyamide; Filling: 80% grey duck down / 20% feather",
+        "Price": "$590.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "sources": [
+        "contender-10"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-13",
+      "name": "Quince · 100% Organic Cotton Ribbed Quarter-Zip Sweater",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Charcoal",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 62.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-13-charcoal-01.webp",
+      "imageAlt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 1",
+      "imageNote": "Complete 6-image Charcoal selected-variant mediaList gallery in retailer order.",
+      "images": [
+        {
+          "src": "assets/images/contender-13-charcoal-01.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 1",
+          "source": "https://images.quince.com/2lqvnhyrNHnGlTIDrLH8E7/65505e1e3dca286497f37141292c8517/M-SWT-115-CHA-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-charcoal-02.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 2",
+          "source": "https://images.quince.com/6Z9012yYlv1yezD7tvfkhl/7338f6e4bdf71a3f01b3bdc2814a9f12/M-SWT-115-CHA-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-charcoal-03.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 3",
+          "source": "https://images.quince.com/7EzWqL49QGON9ylYBXzPNQ/09206ddaa794a82310806154edc22cfe/M-SWT-115-CHA-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-charcoal-04.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 4",
+          "source": "https://images.quince.com/NhMcNEBSPN8tC1GsBvcjt/2375a3b7c47940377d2bf722a8775411/M-SWT-115-CHA-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-charcoal-05.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 5",
+          "source": "https://images.quince.com/5gegbQzGUOpj2t5H0NZJ5J/aa4e4c52145f5d05ad5fb4c460123153/M-SWT-115-CHA-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-charcoal-06.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 6",
+          "source": "https://images.quince.com/4lPhH9EulMrQthWtL0h77m/a83a567bc15a22c672530d96668903d1/M-SWT-115-CHA-06_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Retailer-reported main fabric composition; thread and trims unspecified. Zipper materials unspecified.",
+      "attribution": "Exact selected Charcoal / S rendered HTTP 200 with enabled Add to Bag. Variant 111783, SKU LB127122; available inventory 50; atcDisabled=false. Numeric composition verified in DETAILS: 100% organic cotton. Complete 6 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale.",
+      "facts": {
+        "Fabric": "100% organic cotton; thread and trims unspecified",
+        "Price": "$62.00 USD; shipping/tax not calculated",
+        "Fit": "Charcoal / S selected",
+        "Status": "Charcoal S in stock; exact variant inventory 50 at check."
+      },
+      "sources": [
+        "contender-13"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-01",
+      "name": "Ryker Clothing Co · The Forge Gym Tee (55% Hemp / 45% Organic Cotton)",
+      "url": "https://rykerclothingco.com/products/the-forge-gym-tee-45-organic-cotton-55-hemp?variant=53027686154562",
+      "category": "T-shirts",
+      "brand": "Ryker Clothing Co",
+      "store": "Ryker Clothing Co",
+      "color": "Black",
+      "verdict": "T-shirts",
+      "summary": "",
+      "unitPriceUSD": 68.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-01-01.webp",
+      "imageAlt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 1",
+      "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified. Shared retailer gallery exposes seven slides. Retained the black tee image and two color-neutral material/brand graphics; excluded navy packshot, two blue-toned model images (ChatGPT_Image filenames), and grey-shirt brand graphic. Marketing claims are retailer claims, not independent evidence.",
+      "images": [
+        {
+          "src": "assets/images/contender-01-01.webp",
+          "alt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0682/5112/4034/files/42.png?v=1778533517"
+        },
+        {
+          "src": "assets/images/contender-01-02.webp",
+          "alt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0682/5112/4034/files/PDP_-_Callout_420d09f6-121c-473d-ba8a-7502c3649828.png?v=1778185024"
+        },
+        {
+          "src": "assets/images/contender-01-03.webp",
+          "alt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0682/5112/4034/files/PDP-UsvsThem.png?v=1764176050"
+        }
+      ],
+      "materialCaveat": "S / Black sold out. Trims unspecified.",
+      "attribution": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified. Shared retailer gallery exposes seven slides. Retained the black tee image and two color-neutral material/brand graphics; excluded navy packshot, two blue-toned model images (ChatGPT_Image filenames), and grey-shirt brand graphic. Marketing claims are retailer claims, not independent evidence.",
+      "facts": {
+        "Fabric": "55% hemp / 45% organic cotton",
+        "Price": "$68.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "Small / Black sold out"
+      },
+      "sources": [
+        "contender-01"
+      ],
+      "sourceLinks": [
+        "https://rykerclothingco.com/products/the-forge-gym-tee-45-organic-cotton-55-hemp?variant=53027686154562"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "deal": "Advertised bundles: 2 for $61.20 each; 4 for $54.40 each. Selected S/Black sold out."
+    },
+    {
+      "id": "contender-12",
+      "name": "Taylor Stitch · The Ojai Jacket in Soil Corduroy",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609",
+      "category": "Jacket",
+      "brand": "Taylor Stitch",
+      "store": "Taylor Stitch",
+      "color": "Soil Corduroy",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 248.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-12-04.webp",
+      "imageAlt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 4",
+      "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. ",
+      "images": [
+        {
+          "src": "assets/images/contender-12-04.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_004.jpg?v=1788450312"
+        },
+        {
+          "src": "assets/images/contender-12-01.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/ojai-jacket-in-soil-corduroy-2609_001.jpg?v=1790611920"
+        },
+        {
+          "src": "assets/images/contender-12-02.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_002.jpg?v=1788450304"
+        },
+        {
+          "src": "assets/images/contender-12-03.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_003.jpg?v=1788450309"
+        },
+        {
+          "src": "assets/images/contender-12-05.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_005.jpg?v=1788450315"
+        },
+        {
+          "src": "assets/images/contender-12-06.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_006.jpg?v=1788450320"
+        },
+        {
+          "src": "assets/images/contender-12-07.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_007.jpg?v=1788450323"
+        },
+        {
+          "src": "assets/images/contender-12-08.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_008.jpg?v=1788450326"
+        },
+        {
+          "src": "assets/images/contender-12-09.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_ojai-jacket-soil-corduroy_swatch.jpg?v=1785258984"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified.",
+      "facts": {
+        "Fabric": "100% organic cotton corduroy",
+        "Price": "$248.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S / 38 available"
+      },
+      "sources": [
+        "contender-12"
+      ],
+      "sourceLinks": [
+        "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-17",
+      "name": "Massimo Dutti · 100% Wool Total Look Bomber Jacket",
+      "url": "https://www.massimodutti.com/us/100-wool-total-look-bomber-jacket-l02619357?pelement=65076165",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Deep Blue",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 350.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-17-01.webp",
+      "imageAlt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; other colors, swatches, fallback images and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-17-01.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/6942/3c3a/f0e94e1c8546/5701519f640f/02619357462-o6/02619357462-o6.jpg?ts=1787908163885"
+        },
+        {
+          "src": "assets/images/contender-17-02.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/c655/ddbb/6bf642ee9725/73e8310ab072/02619357462-o1/02619357462-o1.jpg?ts=1787748357338"
+        },
+        {
+          "src": "assets/images/contender-17-03.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/eee0/08dd/dcf742418910/fbb838776d6b/02619357462-o7/02619357462-o7.jpg?ts=1787908163205"
+        },
+        {
+          "src": "assets/images/contender-17-04.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/ef9a/7b25/dfa0455aa689/0636ff6ff8bb/02619357462-o2/02619357462-o2.jpg?ts=1787748354856"
+        },
+        {
+          "src": "assets/images/contender-17-05.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/ef71/47bb/84a94761b73b/246f3b88e4b9/02619357462-o8/02619357462-o8.jpg?ts=1787908170126"
+        },
+        {
+          "src": "assets/images/contender-17-06.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/0f7d/a700/89e6479e80f0/ebe13e36069d/02619357462-o3/02619357462-o3.jpg?ts=1787748356297"
+        },
+        {
+          "src": "assets/images/contender-17-07.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/0681/0e8b/0a1c44e5af2b/dad9b508ed92/02619357462-o4/02619357462-o4.jpg?ts=1787748378610"
+        },
+        {
+          "src": "assets/images/contender-17-08.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/4a46/4f39/2be547b58743/c76e7379fc96/02619357462-o9/02619357462-o9.jpg?ts=1787908162559"
+        },
+        {
+          "src": "assets/images/contender-17-09.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/f6fd/4636/d9e745588599/0e4af995ca7c/02619357462-o5/02619357462-o5.jpg?ts=1787748370686"
+        }
+      ],
+      "materialCaveat": "Deep Blue, not black/brown. Lining: 100% viscose (regenerated cellulose); elastic/trim fibers unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector shows S available, consistent with isBuyable=true and visibilityValue=SHOW.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; Lining: 100% viscose",
+        "Price": "$350.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "sources": [
+        "contender-17"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-total-look-bomber-jacket-l02619357?pelement=65076165"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-18",
+      "name": "Massimo Dutti · Linen Total Look Zip-Up Jacket",
+      "url": "https://www.massimodutti.com/us/linen-total-look-zipup-jacket-l02625440?pelement=64760340",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Grey Blue",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 320.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-18-01.webp",
+      "imageAlt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; other colors, swatches, fallback images and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-18-01.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/13e3/7736/8d4f4e0b8d7f/50105bcfd613/02625440485-o6/02625440485-o6.jpg?ts=1786608877446"
+        },
+        {
+          "src": "assets/images/contender-18-02.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/47dc/5977/716c4749b2cd/24d086abadfd/02625440485-o1/02625440485-o1.jpg?ts=1786024418781"
+        },
+        {
+          "src": "assets/images/contender-18-03.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/509f/7b17/946f43b49f22/823de18763f6/02625440485-o7/02625440485-o7.jpg?ts=1786608877687"
+        },
+        {
+          "src": "assets/images/contender-18-04.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/f325/b1cb/aeaa4ba5a77d/8ca27c9c72e3/02625440485-o2/02625440485-o2.jpg?ts=1786024415051"
+        },
+        {
+          "src": "assets/images/contender-18-05.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/610f/5638/0bf441fe8030/f8ac1858ce32/02625440485-o8/02625440485-o8.jpg?ts=1786608877590"
+        },
+        {
+          "src": "assets/images/contender-18-06.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/ec3f/9869/b1b44cb7b390/94257c83c85a/02625440485-o3/02625440485-o3.jpg?ts=1786024419847"
+        },
+        {
+          "src": "assets/images/contender-18-07.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/73e7/fe71/f7074242831f/05fa064705c9/02625440485-o4/02625440485-o4.jpg?ts=1786024419061"
+        },
+        {
+          "src": "assets/images/contender-18-08.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/0fea/cc2e/dbec43e180fa/6cc5b8244e29/02625440485-o9/02625440485-o9.jpg?ts=1786608876397"
+        },
+        {
+          "src": "assets/images/contender-18-09.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/c961/372a/b80b415c9793/38ef15276a79/02625440485-o5/02625440485-o5.jpg?ts=1786024418769"
+        }
+      ],
+      "materialCaveat": "Grey Blue, not black/brown. S sold out; retained as selected. Only outer-shell composition disclosed; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector explicitly marks S SOLD OUT; embedded isBuyable=true conflicts, so visible sold-out state takes precedence.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% linen",
+        "Price": "$320.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S sold out"
+      },
+      "sources": [
+        "contender-18"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/linen-total-look-zipup-jacket-l02625440?pelement=64760340"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-19",
+      "name": "Scalpers · New Winter Ray Jacket",
+      "url": "https://www.nordstrom.com/s/new-winter-ray-jacket/8769358?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=444445WH27",
+      "category": "Jacket",
+      "brand": "Scalpers",
+      "store": "Nordstrom",
+      "color": "Taupe",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 229.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-19-01.webp",
+      "imageAlt": "New Winter Ray Jacket — Taupe — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-19-01.webp",
+          "alt": "New Winter Ray Jacket — Taupe — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/cff89701-7e08-41f3-b488-961baa97834a.jpeg"
+        },
+        {
+          "src": "assets/images/contender-19-02.webp",
+          "alt": "New Winter Ray Jacket — Taupe — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/21d64da8-1081-4d2a-ac7a-a6f1f029cfbe.jpeg"
+        },
+        {
+          "src": "assets/images/contender-19-03.webp",
+          "alt": "New Winter Ray Jacket — Taupe — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/46fad32d-c63d-49d2-9b80-ac7b8fdec523.jpeg"
+        },
+        {
+          "src": "assets/images/contender-19-04.webp",
+          "alt": "New Winter Ray Jacket — Taupe — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/ae5e189e-86df-4c87-9cd2-69a17ebaff7e.jpeg"
+        }
+      ],
+      "materialCaveat": "Lightly padded; lining and padding fibers not disclosed. Sold/shipped by Global Bridge via Nordstrom; 90-day returns. Taupe selected; retained despite black/brown preference.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton; Lightly padded; lining and padding fibers not disclosed. Sold/shipped by Global Bridge via Nordstrom; 90-day returns.",
+        "Price": "$229.99 USD; shipping/tax not calculated",
+        "Fit": "S requested",
+        "Status": "S available — only 1 left"
+      },
+      "sources": [
+        "contender-19"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/new-winter-ray-jacket/8769358?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=444445WH27"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-20",
+      "name": "Marine Layer · Wax Canvas Barn Jacket",
+      "url": "https://www.nordstrom.com/s/marine-layer-weston-wax-canvas-barn-jacket/9183599?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444GYWC2",
+      "category": "Jacket",
+      "brand": "Marine Layer",
+      "store": "Nordstrom",
+      "color": "Dark Blue",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 248.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-20-01.webp",
+      "imageAlt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-20-01.webp",
+          "alt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/3a7196f9-6db6-4a3c-ab50-181768703b62.jpeg"
+        },
+        {
+          "src": "assets/images/contender-20-02.webp",
+          "alt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/b6ac1e8d-7ff6-40ac-b0c2-5b0fea54862d.jpeg"
+        },
+        {
+          "src": "assets/images/contender-20-03.webp",
+          "alt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/8aa6539a-7291-4294-9db1-0d9bfcaa622c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-20-04.webp",
+          "alt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/d93edebc-ee08-4f3a-b14c-db6bb75fb7ae.jpeg"
+        },
+        {
+          "src": "assets/images/contender-20-05.webp",
+          "alt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 5",
+          "source": "https://n.nordstrommedia.com/it/699127b4-7c51-48e4-848f-487aecb9833c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-20-06.webp",
+          "alt": "Wax Canvas Barn Jacket — Dark Blue — retailer gallery 6",
+          "source": "https://n.nordstrommedia.com/it/b48f3f07-2764-4bd3-820d-84fa7a3b9a03.jpeg"
+        }
+      ],
+      "materialCaveat": "S sold out; retained as selected. Wax coating chemistry and flannel lining fiber percentages not disclosed. Dark Blue selected; retained despite black/brown preference.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton; S sold out; retained as selected. Wax coating chemistry and flannel lining fiber percentages not disclosed.",
+        "Price": "$248.00 USD; shipping/tax not calculated",
+        "Fit": "S requested",
+        "Status": "S sold out"
+      },
+      "sources": [
+        "contender-20"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/marine-layer-weston-wax-canvas-barn-jacket/9183599?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444GYWC2"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-21",
+      "name": "Represent · Anarchy Cotton Jacket",
+      "url": "https://www.nordstrom.com/s/represent-anarchy-jacket/9352328?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444H83MW",
+      "category": "Jacket",
+      "brand": "Represent",
+      "store": "Nordstrom",
+      "color": "Stone",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 315.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-21-01.webp",
+      "imageAlt": "Anarchy Cotton Jacket — Stone — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-21-01.webp",
+          "alt": "Anarchy Cotton Jacket — Stone — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/e30a30a0-5cfc-4962-8ad0-77fb2b1bd0a8.jpeg"
+        }
+      ],
+      "materialCaveat": "Lined; lining fiber percentages not disclosed. Stone selected; retained despite black/brown preference.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton; Lined; lining fiber percentages not disclosed.",
+        "Price": "$315.00 USD; shipping/tax not calculated",
+        "Fit": "S requested",
+        "Status": "S available — only 1 left"
+      },
+      "sources": [
+        "contender-21"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/represent-anarchy-jacket/9352328?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444H83MW"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-22",
+      "name": "Mavi Jeans · Corduroy Overshirt",
+      "url": "https://www.nordstrom.com/s/corduroy-overshirt/9009365?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444FWVYY",
+      "category": "Jacket",
+      "brand": "Mavi Jeans",
+      "store": "Nordstrom",
+      "color": "Navy",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 74.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-22-01.webp",
+      "imageAlt": "Corduroy Overshirt — Navy — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-22-01.webp",
+          "alt": "Corduroy Overshirt — Navy — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/d3688ecc-87c1-44f6-9ad8-9e60a2d30b98.jpeg"
+        },
+        {
+          "src": "assets/images/contender-22-02.webp",
+          "alt": "Corduroy Overshirt — Navy — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/f7225283-e76a-4356-8625-b506ae04332a.jpeg"
+        },
+        {
+          "src": "assets/images/contender-22-03.webp",
+          "alt": "Corduroy Overshirt — Navy — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/75eb08e8-0d3e-48ed-8f96-8ca7d8af2a87.jpeg"
+        },
+        {
+          "src": "assets/images/contender-22-04.webp",
+          "alt": "Corduroy Overshirt — Navy — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/3cb320ab-dd0f-4ae0-ab3b-096ec831fbac.jpeg"
+        },
+        {
+          "src": "assets/images/contender-22-05.webp",
+          "alt": "Corduroy Overshirt — Navy — retailer gallery 5",
+          "source": "https://n.nordstrommedia.com/it/40e51dfb-20a4-471d-9e0e-c3a21a506cee.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims and sewing-thread fibers not disclosed. Navy selected; retained despite black/brown preference.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton; Trims and sewing-thread fibers not disclosed.",
+        "Price": "$74.00 USD; shipping/tax not calculated",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "sources": [
+        "contender-22"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/corduroy-overshirt/9009365?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444FWVYY"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "50% off: $74.00, previously $148.00"
+    },
+    {
+      "id": "contender-23",
+      "name": "MANGO · Slim Fit Cotton Shirt Jacket",
+      "url": "https://www.nordstrom.com/s/slim-fit-cotton-shirt-jacket/9210878?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444G27G4",
+      "category": "Jacket",
+      "brand": "MANGO",
+      "store": "Nordstrom",
+      "color": "Beige",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 139.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-23-01.webp",
+      "imageAlt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-23-01.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/dcca522b-2327-42d9-85d7-c5287b3358c2.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-02.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/0e16690f-1f52-42b9-9f8f-bcffe46c542b.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-03.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/db883a9b-7ec5-4f97-8b14-035b571b66e6.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-04.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/633b71d3-1bbc-4189-a3dd-349631b99e4c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-05.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 5",
+          "source": "https://n.nordstrommedia.com/it/4c343d94-5b38-4d23-ad32-c171a5aacff7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-06.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 6",
+          "source": "https://n.nordstrommedia.com/it/e8ecb216-76d3-4778-b404-671ecfd7c4c1.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-07.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 7",
+          "source": "https://n.nordstrommedia.com/it/c10b0e1a-cf7e-496a-be8a-8069f11c290e.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-08.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 8",
+          "source": "https://n.nordstrommedia.com/it/776a78d5-aad3-45b0-a06d-92784cec77e6.jpeg"
+        },
+        {
+          "src": "assets/images/contender-23-09.webp",
+          "alt": "Slim Fit Cotton Shirt Jacket — Beige — retailer gallery 9",
+          "source": "https://n.nordstrommedia.com/it/0a4fdb7f-4cb5-4198-93b2-619915d1a604.jpeg"
+        }
+      ],
+      "materialCaveat": "Elastic cuffs; elastic and sewing-thread fibers not disclosed. Beige selected; retained despite black/brown preference.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton; Elastic cuffs; elastic and sewing-thread fibers not disclosed.",
+        "Price": "$139.99 USD; shipping/tax not calculated",
+        "Fit": "S requested",
+        "Status": "S available — only 1 left"
+      },
+      "sources": [
+        "contender-23"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/slim-fit-cotton-shirt-jacket/9210878?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444G27G4"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-24",
+      "name": "mnml · Cinch Sweatpants",
+      "url": "https://www.nordstrom.com/s/mnml-cinch-sweatpants/9255106?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H4DFC",
+      "category": "Pants",
+      "brand": "mnml",
+      "store": "Nordstrom",
+      "color": "OATMEAL",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": 78,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-24-01.webp",
+      "imageAlt": "Cinch Sweatpants — OATMEAL — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-24-01.webp",
+          "alt": "Cinch Sweatpants — OATMEAL — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/8f78ea34-f3b6-47ab-92ca-0f80792e7a34.jpeg"
+        }
+      ],
+      "materialCaveat": "Oatmeal lounge sweatpants, retained as selected despite dark office-pants preference. Elastic and sewing-thread fibers not disclosed.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton",
+        "Price": "$78.00 USD; shipping/tax not calculated",
+        "Fit": "W30 maps to S in retailer fit notes; S × Regular sold out. Inseam not stated; 32-inch inseam unverified.",
+        "Status": "S sold out (0 shipping stock); M–XXL listed."
+      },
+      "sources": [
+        "contender-24"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/mnml-cinch-sweatpants/9255106?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H4DFC"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-25",
+      "name": "H&M · Relaxed-Fit Cotton Chinos",
+      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444G23VY",
+      "category": "Pants",
+      "brand": "H&M",
+      "store": "Nordstrom",
+      "color": "Black",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": 39.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-25-black-01.webp",
+      "imageAlt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-25-black-01.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/75ba3045-8cd2-4eef-be19-7dd1a139d4c9.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-02.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/9c5a75cb-49b5-4bd2-b34d-5ccd71ba62da.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-03.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/630d173d-12c2-4707-92b0-b6155cbf671a.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-04.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/ad46d2e5-1d88-4e38-8f11-f6970b4c1246.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-05.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 5",
+          "source": "https://n.nordstrommedia.com/it/dd2c0e50-c8c7-46ed-b7ec-b32836e49c98.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-06.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 6",
+          "source": "https://n.nordstrommedia.com/it/65aeb3c4-fc8b-48a6-af5a-fe89711babdf.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-07.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 7",
+          "source": "https://n.nordstrommedia.com/it/39572496-9ebd-4ce2-aed5-304ffc92cfb5.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-08.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 8",
+          "source": "https://n.nordstrommedia.com/it/fe08f071-901f-4a24-b7b3-fdc112b5d01f.jpeg"
+        }
+      ],
+      "materialCaveat": "Sewing-thread and trim fibers not disclosed.",
+      "attribution": "Black swatch coreChoiceId discovered on the live Nordstrom listing, then exact black URL verified HTTP 200 in registered dedicated Mac Brave. Black W30 × Regular selected in the live size menu; USD price, 100% cotton composition and exact SKU shipping stock checked. Complete eight-image Black orderedShots gallery retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton",
+        "Price": "$39.99 USD; shipping/tax not calculated",
+        "Fit": "W30 × Regular available; Regular is not a verified 32-inch inseam.",
+        "Status": "Black W30 × Regular available (87 shipping stock); sold/shipped by H&M."
+      },
+      "sources": [
+        "contender-25"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444G23VY"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-26",
+      "name": "Mavi Jeans · Regular Fit Linen Button-Up Shirt",
+      "url": "https://www.nordstrom.com/s/regular-fit-linen-button-up-shirt/9031022?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GJHPW",
+      "category": "Shirt",
+      "brand": "Mavi Jeans",
+      "store": "Nordstrom",
+      "color": "BLACK IRIS",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 54.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-26-01.webp",
+      "imageAlt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-26-01.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 1",
+          "source": "https://n.nordstrommedia.com/it/cb134585-fc17-42df-9b3e-8e2010f404e4.jpeg"
+        },
+        {
+          "src": "assets/images/contender-26-02.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 2",
+          "source": "https://n.nordstrommedia.com/it/d7a67621-f8cd-4b35-a8ca-7bf41328a540.jpeg"
+        },
+        {
+          "src": "assets/images/contender-26-03.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 3",
+          "source": "https://n.nordstrommedia.com/it/4ab8ddc7-67ac-40c4-b59d-ec2fa2de0d73.jpeg"
+        },
+        {
+          "src": "assets/images/contender-26-04.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 4",
+          "source": "https://n.nordstrommedia.com/it/5a40e791-9ecb-479a-bb5c-2e6a63a54b72.jpeg"
+        }
+      ],
+      "materialCaveat": "Composition conflict: linen title, but specifications say cotton. Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton (retailer specifications; conflicts with linen title/description)",
+        "Price": "$54.00 USD; shipping/tax not calculated",
+        "Fit": "Regular fit; long sleeves; selected color BLACK IRIS.",
+        "Status": "S sold out (0 shipping stock at check)."
+      },
+      "sources": [
+        "contender-26"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/regular-fit-linen-button-up-shirt/9031022?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GJHPW"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Listed $54.00; regular $108.00."
+    },
+    {
+      "id": "contender-27",
+      "name": "LEISURE LAB · Cotton Lounge Crewneck",
+      "url": "https://www.nordstrom.com/s/cotton-lounge-crewneck/8242946?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=4444457DWS",
+      "category": "Sweatshirt",
+      "brand": "LEISURE LAB",
+      "store": "Nordstrom",
+      "color": "Quartz",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 85.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-27-01.webp",
+      "imageAlt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-27-01.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 1",
+          "source": "https://n.nordstrommedia.com/it/2fdb7041-36e9-4590-8de6-971e91b803e4.jpeg"
+        },
+        {
+          "src": "assets/images/contender-27-02.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 2",
+          "source": "https://n.nordstrommedia.com/it/d74f89c8-94c8-4a5e-86d5-3e3064b0baa9.jpeg"
+        },
+        {
+          "src": "assets/images/contender-27-03.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 3",
+          "source": "https://n.nordstrommedia.com/it/4f18409e-05bd-4cf0-a287-bcef0f38e45d.jpeg"
+        },
+        {
+          "src": "assets/images/contender-27-04.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 4",
+          "source": "https://n.nordstrommedia.com/it/f8ff24e0-4391-475c-ad64-959dbabc3bbf.jpeg"
+        }
+      ],
+      "materialCaveat": "Oversized lounge crewneck, not a button-up shirt. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$85.00 USD; shipping/tax not calculated",
+        "Fit": "Oversized long-sleeve lounge crewneck; brand size 1 = S; selected color Quartz.",
+        "Status": "S available (2 shipping stock at check). Sold/shipped by Leisure Lab."
+      },
+      "sources": [
+        "contender-27"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/cotton-lounge-crewneck/8242946?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=4444457DWS"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-28",
+      "name": "Charles Tyrwhitt · Slim Fit Pure Linen Shirt",
+      "url": "https://www.nordstrom.com/s/slim-fit-pure-linen-shirt/8166383?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444444DUMM",
+      "category": "Shirt",
+      "brand": "Charles Tyrwhitt",
+      "store": "Nordstrom",
+      "color": "NAVY",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 90.3,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-28-01.webp",
+      "imageAlt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-28-01.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 1",
+          "source": "https://n.nordstrommedia.com/it/a293a6d6-9555-4c3e-9e2d-b894eabade72.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-02.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 2",
+          "source": "https://n.nordstrommedia.com/it/ccef4f70-40ba-484d-ac3c-c7be0f810f2e.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-03.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 3",
+          "source": "https://n.nordstrommedia.com/it/a898547c-909e-4eda-8b9e-ef083d450c61.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-04.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 4",
+          "source": "https://n.nordstrommedia.com/it/a0dab874-14fb-4932-ae33-dbfaacb3e0e7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-05.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 5",
+          "source": "https://n.nordstrommedia.com/it/4666a58a-5b3b-4b18-9e7e-2523d5a38a5a.jpeg"
+        }
+      ],
+      "materialCaveat": "Numeric fiber percentage not published; pure linen is the retailer’s composition claim. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "Pure linen (retailer description; no numeric percentage published)",
+        "Price": "$90.30 USD; shipping/tax not calculated",
+        "Fit": "Slim fit; long sleeves / button cuffs; selected color NAVY.",
+        "Status": "S available (1 shipping stock at check). Sold/shipped by SoldThrough."
+      },
+      "sources": [
+        "contender-28"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/slim-fit-pure-linen-shirt/8166383?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444444DUMM"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": false,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Listed $90.30; regular $129.00."
+    },
+    {
+      "id": "contender-29",
+      "name": "Charles Tyrwhitt · Plain Pure Linen Shirt",
+      "url": "https://www.nordstrom.com/s/plain-pure-linen-shirt/8920844?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444657KC",
+      "category": "Shirt",
+      "brand": "Charles Tyrwhitt",
+      "store": "Nordstrom",
+      "color": "Navy",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 139.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-29-01.webp",
+      "imageAlt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-29-01.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 1",
+          "source": "https://n.nordstrommedia.com/it/115a1194-6b7f-4ce2-bc77-c44af9fb675b.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-02.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 2",
+          "source": "https://n.nordstrommedia.com/it/0891148c-e8d5-4968-93d4-b83228d76ba2.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-03.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 3",
+          "source": "https://n.nordstrommedia.com/it/88314f93-de24-49b8-95ca-cf7e50206339.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-04.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 4",
+          "source": "https://n.nordstrommedia.com/it/e6610aaa-7835-4fb6-9932-0c9571c03a62.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-05.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 5",
+          "source": "https://n.nordstrommedia.com/it/9b523f92-b8d6-4e61-92a1-de6ecdb04fa7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-06.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 6",
+          "source": "https://n.nordstrommedia.com/it/441c3cd4-29ef-4517-b099-3c53b77c35b0.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% linen",
+        "Price": "$139.00 USD; shipping/tax not calculated",
+        "Fit": "Slim fit; long sleeves / button cuffs; selected color Navy.",
+        "Status": "S available (4 shipping stock at check). Sold/shipped by SoldThrough."
+      },
+      "sources": [
+        "contender-29"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/plain-pure-linen-shirt/8920844?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444657KC"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-30",
+      "name": "COS · Checked Cotton Jacquard Shirt",
+      "url": "https://www.nordstrom.com/s/checked-cotton-jacquard-shirt/9117564?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJW4",
+      "category": "Shirt",
+      "brand": "COS",
+      "store": "Nordstrom",
+      "color": "WHITE",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 110.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-30-01.webp",
+      "imageAlt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-30-01.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 1",
+          "source": "https://n.nordstrommedia.com/it/c9496b03-083d-4bd4-899a-1ff6c725a238.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-02.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 2",
+          "source": "https://n.nordstrommedia.com/it/f3b302dd-f918-4b41-b7d1-9cebd7494979.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-03.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 3",
+          "source": "https://n.nordstrommedia.com/it/1ddba1d7-c18d-4c06-9441-a5442f1d6933.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-04.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 4",
+          "source": "https://n.nordstrommedia.com/it/ee966f72-5dca-49bd-9659-837b55f23981.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-05.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 5",
+          "source": "https://n.nordstrommedia.com/it/b529e017-2b72-4226-bc51-6589135c60ae.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-06.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 6",
+          "source": "https://n.nordstrommedia.com/it/5602cf9d-aaaf-475b-bec3-36e929dece9c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-07.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 7",
+          "source": "https://n.nordstrommedia.com/it/0599a025-3fff-4a96-baa5-fd1c471806aa.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-08.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 8",
+          "source": "https://n.nordstrommedia.com/it/410a5984-fddd-489a-848f-782b97694c20.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-09.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 9",
+          "source": "https://n.nordstrommedia.com/it/9e198fd4-7531-4cb6-bad9-e2254cca1a12.jpeg"
+        }
+      ],
+      "materialCaveat": "Composition supplemented from COS’s exact white article. Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton shell (COS exact white article 1335745002)",
+        "Price": "$110.00 USD; shipping/tax not calculated",
+        "Fit": "Relaxed fit; long sleeves; selected color WHITE.",
+        "Status": "S sold out (0 shipping stock at check). Sold/shipped by COS."
+      },
+      "sources": [
+        "contender-30",
+        "contender-30-composition"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/checked-cotton-jacquard-shirt/9117564?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJW4",
+        "https://www.cos.com/en-ie/men/menswear/shirts/casualshirts/product/checked-cotton-jacquard-shirt-white-1335745002"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-31",
+      "name": "Marine Layer · Luxe Jersey Organic Cotton Button-Up Shirt",
+      "url": "https://www.nordstrom.com/s/marine-layer-luxe-jersey-shirt/9183662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GYW6P",
+      "category": "Shirt",
+      "brand": "Marine Layer",
+      "store": "Nordstrom",
+      "color": "OATMEAL HEATHER",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 128.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-31-01.webp",
+      "imageAlt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-31-01.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 1",
+          "source": "https://n.nordstrommedia.com/it/2306f2e1-5b16-4668-ab30-188867aa01a1.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-02.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 2",
+          "source": "https://n.nordstrommedia.com/it/4d158443-e8a5-4b2f-9c46-e636ed70330a.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-03.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 3",
+          "source": "https://n.nordstrommedia.com/it/05dda930-08f2-4203-8442-21933aabd738.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-04.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 4",
+          "source": "https://n.nordstrommedia.com/it/af2facee-54be-45fc-9e13-d577b2a4e242.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-05.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 5",
+          "source": "https://n.nordstrommedia.com/it/0daf076b-d30a-4e63-b4c1-361991094a03.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-06.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 6",
+          "source": "https://n.nordstrommedia.com/it/3ab34d59-bb87-4909-b30b-c6dc66989f3f.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-07.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 7",
+          "source": "https://n.nordstrommedia.com/it/dd0b9063-f731-44a9-9f39-92262d599af9.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Price": "$128.00 USD; shipping/tax not calculated",
+        "Fit": "Relaxed fit; long sleeves; selected color OATMEAL HEATHER.",
+        "Status": "S available (1 shipping stock at check)."
+      },
+      "sources": [
+        "contender-31"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/marine-layer-luxe-jersey-shirt/9183662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GYW6P"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-32",
+      "name": "COS · Relaxed Brushed Cotton-blend Shirt",
+      "url": "https://www.nordstrom.com/s/relaxed-brushed-cotton-blend-shirt/9117257?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJAV",
+      "category": "Shirt",
+      "brand": "COS",
+      "store": "Nordstrom",
+      "color": "NAVY",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 129.0,
+      "naturalPercent": 49,
+      "integrityRank": 49,
+      "image": "assets/images/contender-32-01.webp",
+      "imageAlt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-32-01.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 1",
+          "source": "https://n.nordstrommedia.com/it/1513bc70-1156-47fe-ac28-3b51896f4870.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-02.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 2",
+          "source": "https://n.nordstrommedia.com/it/7cfc6ca4-4608-4ccb-ad95-13654e2e9097.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-03.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 3",
+          "source": "https://n.nordstrommedia.com/it/83859891-86d5-4b5d-be3c-e6e11a5b16fe.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-04.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 4",
+          "source": "https://n.nordstrommedia.com/it/792ac659-ab58-4dfc-ab4a-f9fd69ec0c7d.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-05.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 5",
+          "source": "https://n.nordstrommedia.com/it/1bfbe569-0a29-4a44-ba41-0adfa170f3ab.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-06.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 6",
+          "source": "https://n.nordstrommedia.com/it/ddf97a13-9194-404e-8b73-0edd0a635886.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-07.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 7",
+          "source": "https://n.nordstrommedia.com/it/cb587047-ada4-43b2-8d16-a6073c61fcec.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-08.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 8",
+          "source": "https://n.nordstrommedia.com/it/a2249441-f0f6-4441-bc84-cb44bca92063.jpeg"
+        }
+      ],
+      "materialCaveat": "Contains regenerated cellulose, not 100% natural fiber. Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "51% TENCEL™ lyocell, 49% cotton shell",
+        "Price": "$129.00 USD; shipping/tax not calculated",
+        "Fit": "Relaxed fit; long sleeves; selected color NAVY.",
+        "Status": "S sold out (0 shipping stock at check). Sold/shipped by COS."
+      },
+      "sources": [
+        "contender-32"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/relaxed-brushed-cotton-blend-shirt/9117257?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJAV"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-33",
+      "name": "Polo Ralph Lauren · Classic Fit Striped Oxford Shirt",
+      "url": "https://www.nordstrom.com/s/classic-fit-striped-oxford-shirt/9012956?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444655ME",
+      "category": "Shirt",
+      "brand": "Polo Ralph Lauren",
+      "store": "Nordstrom",
+      "color": "6636O SLATE/WHITE",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 130.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-33-01.webp",
+      "imageAlt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-33-01.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 1",
+          "source": "https://n.nordstrommedia.com/it/06f3334d-eda6-4498-8e57-2f6756a1f013.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-02.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 2",
+          "source": "https://n.nordstrommedia.com/it/00418b9d-221a-41ad-b14a-b73fcd50c301.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-03.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 3",
+          "source": "https://n.nordstrommedia.com/it/b9f5195a-8747-412b-b379-f91b462b3048.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-04.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 4",
+          "source": "https://n.nordstrommedia.com/it/6fad66e9-da2c-4f07-8e66-559c42451643.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-05.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 5",
+          "source": "https://n.nordstrommedia.com/it/a4068351-d096-4ba8-b5e5-f8ecad703a35.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-06.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 6",
+          "source": "https://n.nordstrommedia.com/it/3d831872-1961-412b-b66d-68fb1df4740c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-07.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 7",
+          "source": "https://n.nordstrommedia.com/it/7da04786-1348-4880-bfeb-151ca53b8599.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-08.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 8",
+          "source": "https://n.nordstrommedia.com/it/898ea118-bc13-4099-a7a8-3cd41a9e1ded.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-09.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 9",
+          "source": "https://n.nordstrommedia.com/it/517fb803-ec14-4f1f-889d-bffffd49e158.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-10.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 10",
+          "source": "https://n.nordstrommedia.com/it/1257cd86-ee2b-4857-bd7d-2b3346422cb4.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-11.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 11",
+          "source": "https://n.nordstrommedia.com/it/594ee344-8521-4243-8cdf-a5a11fa11f86.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$130.00 USD; shipping/tax not calculated",
+        "Fit": "Classic fit; long sleeves; selected color 6636O SLATE/WHITE.",
+        "Status": "S available (4 shipping stock at check)."
+      },
+      "sources": [
+        "contender-33"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/classic-fit-striped-oxford-shirt/9012956?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444655ME"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-34",
+      "name": "David Donahue · Linen Check Sport Shirt",
+      "url": "https://www.nordstrom.com/s/david-donahue-linen-check-sport-shirt/8821942?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YX6U",
+      "category": "Shirt",
+      "brand": "David Donahue",
+      "store": "Nordstrom",
+      "color": "WHITE/ DUNE",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 131.3,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-34-01.webp",
+      "imageAlt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-34-01.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 1",
+          "source": "https://n.nordstrommedia.com/it/b055238f-09d6-4be0-8129-ca42dc530727.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-02.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 2",
+          "source": "https://n.nordstrommedia.com/it/cc54d691-2298-4921-b72f-e300facaa7ad.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-03.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 3",
+          "source": "https://n.nordstrommedia.com/it/91790171-4839-4c22-822d-ebdaf1f2f1c7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-04.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 4",
+          "source": "https://n.nordstrommedia.com/it/96a6cf99-4122-40a1-9096-1c5cfd62f51e.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-05.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 5",
+          "source": "https://n.nordstrommedia.com/it/d98afe5f-fc06-45d1-b388-f6191e9d33eb.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-06.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 6",
+          "source": "https://n.nordstrommedia.com/it/7895f6c6-a2ef-4d2a-a3aa-aa3c9fb8d773.jpeg"
+        }
+      ],
+      "materialCaveat": "Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% linen",
+        "Price": "$131.30 USD; shipping/tax not calculated",
+        "Fit": "Long sleeves; selected color WHITE/ DUNE.",
+        "Status": "S sold out (0 shipping stock at check)."
+      },
+      "sources": [
+        "contender-34"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/david-donahue-linen-check-sport-shirt/8821942?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YX6U"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Listed $131.30; regular $175.00."
+    },
+    {
+      "id": "contender-35",
+      "name": "Marine Layer · Pacifica Button-Up Shirt",
+      "url": "https://www.nordstrom.com/s/pacifica-button-up-shirt/8812979?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YL6U",
+      "category": "Shirt",
+      "brand": "Marine Layer",
+      "store": "Nordstrom",
+      "color": "INDIGO",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 138.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-35-01.webp",
+      "imageAlt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-35-01.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 1",
+          "source": "https://n.nordstrommedia.com/it/0b7280b9-9055-475b-bf71-814c247e5c31.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-02.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 2",
+          "source": "https://n.nordstrommedia.com/it/66654f5a-b00d-42fb-96d6-aab50b06a98f.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-03.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 3",
+          "source": "https://n.nordstrommedia.com/it/04a107e7-8537-4e5c-a5d4-01a6abd390e7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-04.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 4",
+          "source": "https://n.nordstrommedia.com/it/2092ec6b-f38d-4670-bced-5de8c0e178ac.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-05.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 5",
+          "source": "https://n.nordstrommedia.com/it/6b1b4b53-8deb-453e-8359-27a8c8757179.jpeg"
+        }
+      ],
+      "materialCaveat": "Composition wording conflicts; confirm the garment label. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton (retailer specifications; description says cotton blend)",
+        "Price": "$138.00 USD; shipping/tax not calculated",
+        "Fit": "Long sleeves; selected color INDIGO.",
+        "Status": "S available (26 shipping stock at check)."
+      },
+      "sources": [
+        "contender-35"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/pacifica-button-up-shirt/8812979?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YL6U"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-36",
+      "name": "Banana Republic · Signature Italian Rustico Suit Pant",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=8711610223032&vid=1&pcid=1072457&cid=1072457&nav=meganav%3AMEN%3AMEN%27S+CLOTHING%3ADress+Pants#pdp-page-content",
+      "category": "Pants",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Charcoal Gray",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 195,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-36-01.webp",
+      "imageAlt": "Signature Italian Rustico Suit Pant — Charcoal Gray",
+      "imageNote": "Complete eight-image gallery exposed for selected Charcoal Gray. Retailer slides 7–8 visibly show blue trousers; retained as retailer-provided alternate-color details, not charcoal color evidence.",
+      "images": [
+        {
+          "src": "assets/images/contender-36-01.webp",
+          "alt": "Signature Italian Rustico Suit Pant — Charcoal Gray — photo 1",
+          "source": "https://content.gapinc.com/b/0061/678/360/cn61678360.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-02.webp",
+          "alt": "Signature Italian Rustico Suit Pant — Charcoal Gray — photo 2",
+          "source": "https://content.gapinc.com/b/0061/678/331/cn61678331.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-03.webp",
+          "alt": "Signature Italian Rustico Suit Pant — Charcoal Gray — photo 3",
+          "source": "https://content.gapinc.com/b/0061/678/343/cn61678343.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-04.webp",
+          "alt": "Signature Italian Rustico Suit Pant — Charcoal Gray — photo 4",
+          "source": "https://content.gapinc.com/b/0056/776/614/cn56776614.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-05.webp",
+          "alt": "Signature Italian Rustico Suit Pant — Charcoal Gray — photo 5",
+          "source": "https://content.gapinc.com/b/0061/678/587/cn61678587.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-06.webp",
+          "alt": "Signature Italian Rustico Suit Pant — Charcoal Gray — photo 6",
+          "source": "https://content.gapinc.com/b/0056/776/624/cn56776624.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-07.webp",
+          "alt": "Signature Italian Rustico Suit Pant — retailer alternate blue-color detail — photo 7",
+          "source": "https://content.gapinc.com/b/0056/764/506/cn56764506.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-36-08.webp",
+          "alt": "Signature Italian Rustico Suit Pant — retailer alternate blue-color detail — photo 8",
+          "source": "https://content.gapinc.com/b/0056/764/511/cn56764511.png?width=1440"
+        }
+      ],
+      "materialCaveat": "100% wool shell qualifies; unlined. Trims/thread unspecified. Selected 30W / 32L is out of stock. Size guide also lists Regular inseam 31.5 inches, conflicting with selector 32L; exact finished inseam not confirmed.",
+      "attribution": "Exact full supplied PID 8711610223032 rendered in registered dedicated Mac Brave. Charcoal Gray, 30W and 32L checked on arrival; both size inputs aria-disabled=true; shipping Out of Stock. Fabric & care and eight selected-color images captured. No purchase attempted.",
+      "facts": {
+        "Fabric": "Shell: 100% RWS wool; unlined. Separate certification statement: 99% RWS-certified wool.",
+        "Price": "$195.00 USD (was $230.00); shipping/tax not calculated",
+        "Fit": "Tailored Slim Fit; mid-rise, tapered leg. Selected 30W / 32L; guide says Regular 31.5-inch inseam.",
+        "Status": "Selected Charcoal Gray 30W / 32L out of stock for shipping; retained as requested."
+      },
+      "sources": [
+        "contender-36"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=8711610223032&vid=1&pcid=1072457&cid=1072457&nav=meganav%3AMEN%3AMEN%27S+CLOTHING%3ADress+Pants#pdp-page-content"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Limited Time Offer: $195, reduced from $230. Credit-card signup offer excluded."
+    },
+    {
+      "id": "contender-37",
+      "name": "Banana Republic · Cotton Moto Sweater Jacket",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=906740002&vid=1&pcid=1016720&cid=1016720&nav=meganav%3AMEN%3AMEN%27S+CLOTHING%3ACoats+%26+Jackets#pdp-page-content",
+      "category": "Jacket",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Acorn Brown",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 248,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-37-01.webp",
+      "imageAlt": "Cotton Moto Sweater Jacket — Acorn Brown",
+      "imageNote": "Complete four-image gallery exposed for selected Acorn Brown. Retailer slides 2–4 visibly show black/dark charcoal; retained as retailer-provided alternate-color details, not brown color evidence.",
+      "images": [
+        {
+          "src": "assets/images/contender-37-01.webp",
+          "alt": "Cotton Moto Sweater Jacket — Acorn Brown — photo 1",
+          "source": "https://content.gapinc.com/b/0062/829/349/cn62829349.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-37-02.webp",
+          "alt": "Cotton Moto Sweater Jacket — retailer alternate black-color detail — photo 2",
+          "source": "https://content.gapinc.com/b/0063/006/278/cn63006278.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-37-03.webp",
+          "alt": "Cotton Moto Sweater Jacket — retailer alternate black-color detail — photo 3",
+          "source": "https://content.gapinc.com/b/0062/972/884/cn62972884.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-37-04.webp",
+          "alt": "Cotton Moto Sweater Jacket — retailer alternate black-color detail — photo 4",
+          "source": "https://content.gapinc.com/b/0063/467/452/cn63467452.png?width=1440"
+        }
+      ],
+      "materialCaveat": "100% cotton shell qualifies; front-body lining 100% organic cotton. Zipper, trims and sewing thread not fully specified; not a whole-garment plastic-free claim.",
+      "attribution": "Exact supplied PID 906740002 rendered in registered dedicated Mac Brave. Acorn Brown / Regular selected; size S explicitly selected, checked=true and aria-disabled=false; shipping In Stock. Fabric & care percentages and all four numbered selected-color gallery photos captured. No purchase attempted.",
+      "facts": {
+        "Fabric": "Shell: 100% cotton. Front-body lining: 100% organic cotton.",
+        "Price": "$248.00 USD; shipping/tax not calculated",
+        "Fit": "S / Regular selected; relaxed fit, dropped shoulder, hip length.",
+        "Status": "Acorn Brown S / Regular in stock for shipping at check. Store pickup separate."
+      },
+      "sources": [
+        "contender-37"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=906740002&vid=1&pcid=1016720&cid=1016720&nav=meganav%3AMEN%3AMEN%27S+CLOTHING%3ACoats+%26+Jackets#pdp-page-content"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "No non-card product-specific discount verified."
+    },
+    {
+      "id": "contender-38",
+      "name": "Quince · Comfort Stretch Traveler 5-Pocket Pants – Straight",
+      "url": "https://www.quince.com/men/stretch-traveler-5-pocket-pant?color=black&gender=men&size=30x32",
+      "category": "Pants",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Black",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 49.9,
+      "naturalPercent": 98,
+      "integrityRank": 98,
+      "image": "assets/images/contender-38-01.webp",
+      "imageAlt": "Comfort Stretch Traveler 5-Pocket Pants — Black",
+      "imageNote": "Complete exact Black variant still gallery: five images (including two retailer hero crops); one video excluded. Other colors and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-38-01.webp",
+          "alt": "Comfort Stretch Traveler 5-Pocket Pants — Black — photo 1",
+          "source": "https://images.quince.com/6IsRMOFtcocwsG9pOsu0tj/93ed3e40ea87e4dba4e81b76e30bea16/M-PNT-11-BLK_1030.jpg"
+        },
+        {
+          "src": "assets/images/contender-38-02.webp",
+          "alt": "Comfort Stretch Traveler 5-Pocket Pants — Black — photo 2",
+          "source": "https://images.quince.com/7q0CTVryMVetrPAq2ZYPLY/a1e85271d91aae7d2e94645de87df325/M-PNT-11-BLK_1030.jpg"
+        },
+        {
+          "src": "assets/images/contender-38-03.webp",
+          "alt": "Comfort Stretch Traveler 5-Pocket Pants — Black — photo 3",
+          "source": "https://images.quince.com/E0lraDyuZ3AHjLV6MRMHr/689f778defd781444107083a8bdca6fd/M-PNT-11-BLK_1041.jpg"
+        },
+        {
+          "src": "assets/images/contender-38-04.webp",
+          "alt": "Comfort Stretch Traveler 5-Pocket Pants — Black — photo 4",
+          "source": "https://images.quince.com/2JSfqffvRIwW9JDjREnjBY/0cfc478327ff6885da241b6d915d7af3/M-PNT-11-BLK_1064.jpg"
+        },
+        {
+          "src": "assets/images/contender-38-05.webp",
+          "alt": "Comfort Stretch Traveler 5-Pocket Pants — Black — photo 5",
+          "source": "https://images.quince.com/4LvUNk7rlybjVmlWdrTmxe/b80dcddefaeb7a28e48d29f90cb9f689/M-PNT-11-BLK_1054.jpg"
+        }
+      ],
+      "materialCaveat": "Does not meet 100% natural-main-fabric rule: 98% cotton, 2% synthetic elastane. Retained as explicitly selected. Trims/thread unspecified.",
+      "attribution": "Exact supplied Black / 30X32 URL rendered live with both options checked, $49.90 and In stock; Add to Bag enabled. Exact embedded variant 7031 / SKU LB22424 has available inventory 50, atcDisabled=false. DETAILS gives 98% cotton, 2% elastane. Complete exact variant mediaList retained.",
+      "facts": {
+        "Fabric": "98% cotton, 2% elastane — NOT 100% natural fiber",
+        "Price": "$49.90 USD; tax not calculated",
+        "Fit": "Straight fit; Black / 30X32 selected. Gentle taper below knee, five-pocket styling.",
+        "Status": "Black 30X32 in stock; exact variant inventory 50 at check."
+      },
+      "sources": [
+        "contender-38"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/stretch-traveler-5-pocket-pant?color=black&gender=men&size=30x32"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "No verified markdown; $99 “Traditional retail” is comparison advertising, not a former Quince price."
+    },
+    {
+      "id": "contender-39",
+      "name": "Quince · 100% Mongolian Cashmere Double-Faced Chore Blazer",
+      "url": "https://www.quince.com/men/unstructured-midweight-cashmere-chore-blazer?color=black&gender=men",
+      "category": "Jacket",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Black",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 400,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-39-01.webp",
+      "imageAlt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black",
+      "imageNote": "Complete eight-image exact Black variant mediaList gallery; other colors and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-39-01.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 1",
+          "source": "https://images.quince.com/61n3WepNvkp0DJr29Vi6UA/1d04e76fe7c289bb8ddf9d0ceef608a1/M-JKT-140-BLK-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-02.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 2",
+          "source": "https://images.quince.com/5Abwr8O9GbFqStguX5UxqY/e08d1d07c8253a7590775069c8243b84/NYE_Editorial_09_81_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-03.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 3",
+          "source": "https://images.quince.com/1KSU70dxDwAQAPfEiHQTBj/c9cc104678e10d74518be2a4724fd8bc/NYE_Editorial_09_82_EDITED__1_.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-04.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 4",
+          "source": "https://images.quince.com/4a5uZ2wtAbRyuccvG7CdjM/1368b25b6590e4df10c3959c81c1ec16/M-JKT-140-BLK-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-05.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 5",
+          "source": "https://images.quince.com/1K8FqFMkxl0EMMjO5y5Rku/7bd11a2e050fde735828f1fb5ee6e2d7/M-JKT-140-BLK-06_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-06.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 6",
+          "source": "https://images.quince.com/63lUS1dCQJAwf1oYF5jQlP/b0595a92d0c8ea348a16d0825ac8c275/M-JKT-140-BLK-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-07.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 7",
+          "source": "https://images.quince.com/4gcOdzOdHHZ127J9dmrFJr/903876d13ad4f6e2001dcfaf45942230/M-JKT-140-BLK-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-39-08.webp",
+          "alt": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black — photo 8",
+          "source": "https://images.quince.com/1iidMx5q6SnpvY6RjfwOkT/08025944099b5bbdfa95b093b78626b5/M-JKT-140-BLK-05_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "100% cashmere main fabric qualifies; unlined, genuine horn buttons. Sewing thread and other trims not fully specified; no whole-garment plastic-free claim.",
+      "attribution": "Exact supplied Black URL rendered live; size S explicitly selected, Black and S checked and Add to Bag enabled with In stock text. Exact variant 101155 / SKU LB116494: inventory 10, atcDisabled=false. First-party DETAILS confirms 100% Grade-A Mongolian cashmere, unlined, genuine horn buttons. All eight exact-color variant mediaList images retained.",
+      "facts": {
+        "Fabric": "100% Grade-A Mongolian cashmere; unlined; genuine horn buttons",
+        "Price": "$400.00 USD; tax not calculated",
+        "Fit": "Classic fit; Black / S selected; unstructured double-faced construction.",
+        "Status": "Black S in stock; exact variant inventory 10 at check."
+      },
+      "sources": [
+        "contender-39"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/unstructured-midweight-cashmere-chore-blazer?color=black&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "No verified markdown; $1,498 “Traditional retail” is comparison advertising, not a former Quince price."
+    },
+    {
+      "id": "contender-40",
+      "name": "Quince · 100% Organic Cotton Heavyweight Tee",
+      "url": "https://www.quince.com/men/100-organic-cotton-heavyweight-relaxed-fit-jersey-tee?color=heather-oatmeal&gender=men",
+      "category": "T-shirts",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Heather Oatmeal",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 29.9,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-40-01.webp",
+      "imageAlt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal",
+      "imageNote": "Complete five-image Heather Oatmeal variant mediaList gallery; other colors and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-40-01.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 1",
+          "source": "https://images.quince.com/6aDiiZwXUfdrDjA1XbOhQY/94649b070daf827c341c83c64bcf3739/M-LKT-97-LIGHEAG_01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-02.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 2",
+          "source": "https://images.quince.com/3S5NVeH7No1AMUAn57S4vS/e2793fd65fbc4ae583cf4cc66a6f2775/M-LKT-97-LIGHEAG_02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-03.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 3",
+          "source": "https://images.quince.com/1Kwo2Eb4tDU39N4i13blbF/250d7dd1746c270ab18ac488e4cee8c0/M-LKT-97-LIGHEAG_04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-04.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 4",
+          "source": "https://images.quince.com/7do1n7d1GDVlyAwl4jSSA7/61f660dd3f88c6c4c0d17bed691e6ae0/M-LKT-97-LIGHEAG_03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-05.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 5",
+          "source": "https://images.quince.com/5SNLs36zRy38zvRxdPN5IQ/0fafdc48ad66ed004c4185122bc4e834/M-LKT-97-LIGHEAG_05_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Selected Heather Oatmeal page DETAILS reports 100% organic cotton; no heather blend exception disclosed. Thread and trims unspecified; retailer claim, not independent fiber testing.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in dedicated Wren browser, Heather Oatmeal / S checked, In stock text and enabled Add to Bag. Variant 142961, SKU LB158300, inventory 50, atcDisabled=false. Selected-page DETAILS explicitly states Materials: 100% organic cotton and 345 gsm; no Heather Oatmeal blend exception is exposed in the details or exact variant. This is retailer-reported composition, not an independently tested fiber analysis. All five exact-color mediaList images retained; recommendations and other colors excluded.",
+      "facts": {
+        "Fabric": "100% organic cotton per selected Heather Oatmeal DETAILS; 345 gsm",
+        "Price": "$29.90 USD; shipping/tax not calculated",
+        "Fit": "Classic fit; Heather Oatmeal / S selected. Retailer current title is Heavyweight Tee; supplied URL retains relaxed-fit wording.",
+        "Status": "Heather Oatmeal S in stock; exact variant inventory 50 at check."
+      },
+      "sources": [
+        "contender-40"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/100-organic-cotton-heavyweight-relaxed-fit-jersey-tee?color=heather-oatmeal&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Buy a 3-pack and save 10% advertised; single tee $29.90. $55 traditional retail is a comparison, not a former Quince price."
+    },
+    {
+      "id": "contender-41",
+      "name": "Banana Republic · Tailored Slim-Fit Italian Wool Ventile Suit Pant",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=868178002&vid=1&pcid=75310&cid=1118162#pdp-page-content",
+      "category": "Pants",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Utility Blue",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 179.97,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-41-01.webp",
+      "imageAlt": "Tailored Slim-Fit Italian Wool Ventile Suit Pant — Utility Blue",
+      "imageNote": "All eight exposed gallery positions: seven selected-color photos and the video poster (slot 2); video linked under sources.",
+      "images": [
+        {
+          "src": "assets/images/contender-41-01.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 1",
+          "source": "https://content.gapinc.com/b/0062/067/269/cn62067269.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-02.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 2 (video poster)",
+          "source": "https://content.gapinc.com/b/0062/098/315/cn62098315.png?width=1209"
+        },
+        {
+          "src": "assets/images/contender-41-03.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 3",
+          "source": "https://content.gapinc.com/b/0062/067/289/cn62067289.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-04.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 4",
+          "source": "https://content.gapinc.com/b/0062/067/346/cn62067346.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-05.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 5",
+          "source": "https://content.gapinc.com/b/0062/302/096/cn62302096.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-06.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 6",
+          "source": "https://content.gapinc.com/b/0062/067/281/cn62067281.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-07.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 7",
+          "source": "https://content.gapinc.com/b/0062/302/104/cn62302104.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-08.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 8",
+          "source": "https://content.gapinc.com/b/0061/938/868/cn61938868.png?width=1440"
+        }
+      ],
+      "materialCaveat": "100% wool shell; 100% cotton knee-length lining. Thread/trims unspecified. Selected Utility Blue retained; 30W × 32L unavailable; final sale.",
+      "attribution": "Dedicated Wren browser rendered exact supplied URL, Utility Blue selected. Fabric & care: shell 100% wool; lining 100% cotton, half lined to knee. $179.97 from $230, final sale no returns/exchanges. With 30W selected, 32L is crossed out/unavailable and its input aria-disabled=true: requested 30W × 32L is unavailable. Size chart lists 32L actual inseam 31.5 inches. Eight selected-color gallery positions: seven photographs plus video poster in position 2; original video source retained as evidence. User selection retained despite stock and blue-color departure from usual dark-pants preference.",
+      "facts": {
+        "Fabric": "Shell 100% wool; lining 100% cotton (to knee)",
+        "Price": "$179.97 USD, was $230; final sale; shipping/tax not calculated",
+        "Fit": "Tailored slim; mid-rise, tapered leg. Requested 30W × 32L; retailer 32L inseam measures 31.5 inches.",
+        "Status": "30W × 32L unavailable: 32L disabled after selecting 30W. User selection retained."
+      },
+      "sources": [
+        "contender-41"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=868178002&vid=1&pcid=75310&cid=1118162#pdp-page-content",
+        "https://content.gapinc.com/b/0062/098/307/cn62098307.mp4"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "$179.97, reduced from $230. Final sale — no returns or exchanges."
+    },
+    {
+      "id": "contender-42",
+      "name": "Quince · Australian Merino Wool Cable Crewneck Sweater",
+      "url": "https://www.quince.com/men/australian-merino-wool-cable-crewneck-sweater?color=malted-toffee&gender=men",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Malted Toffee",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 82.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-42-malted-toffee-01.webp",
+      "imageAlt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 1",
+      "imageNote": "Complete 7-image Malted Toffee selected-variant mediaList gallery in retailer order.",
+      "images": [
+        {
+          "src": "assets/images/contender-42-malted-toffee-01.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 1",
+          "source": "https://images.quince.com/5KBYReD1jV3dXE8VsBK1G8/3fc6d252bce778ec1ab9472469f959ab/M-SWT-48-MLTTFF-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-02.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 2",
+          "source": "https://images.quince.com/39mY2PZO7y7C6wbA1k0a7k/62b49d0c86adc297f2e3df585d42c242/M-SWT-48-MLTTFF-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-03.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 3",
+          "source": "https://images.quince.com/1IC41OD619aopwaAz3S1HI/bc03159fc87067143ab3ab25bc397a26/M-SWT-48-MLTTFF-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-04.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 4",
+          "source": "https://images.quince.com/okLHFjIfQBp6WWPwHbC4u/867875803db9328e0098cb72c6c61981/M-SWT-48-MLTTFF-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-05.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 5",
+          "source": "https://images.quince.com/7anBhNdiq8yxFRRrKws1qo/03076d7779c5e09f6c82cf22cc3e77b4/M-SWT-48-MLTTFF-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-06.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 6",
+          "source": "https://images.quince.com/3BuF9FM7UCwys5Y0vrejPS/ac896fd3b1cacc7a70f894f8ad640711/M-SWT-48-MLTTFF-06_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-07.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 7",
+          "source": "https://images.quince.com/7aRIbLyziJlKyavrvp9mOM/14094673fba3511d164a0baa8dabd9b3/M-SWT-48-MLTTFF-07_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Retailer-reported main fabric composition; thread and trims unspecified.",
+      "attribution": "Exact selected Malted Toffee / S rendered HTTP 200 with enabled Add to Bag. Variant 66261, SKU LB81600; available inventory 38; atcDisabled=false. Numeric composition verified in DETAILS: 100% Australian merino wool. Complete 7 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale.",
+      "facts": {
+        "Fabric": "100% Australian merino wool; thread and trims unspecified",
+        "Price": "$82.00 USD; shipping/tax not calculated",
+        "Fit": "Malted Toffee / S selected",
+        "Status": "Malted Toffee S in stock; exact variant inventory 38 at check."
+      },
+      "sources": [
+        "contender-42"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/australian-merino-wool-cable-crewneck-sweater?color=malted-toffee&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-43",
+      "name": "Banana Republic · Loose Pleated Corduroy Pant",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9066890423032&vid=1#pdp-page-content",
+      "category": "Pants",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Black",
+      "verdict": "Closest available pleated cut",
+      "summary": "",
+      "unitPriceUSD": 148.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/br-pants-906689042-01.webp",
+      "imageAlt": "Loose Pleated Corduroy Pant — Black — photo 1",
+      "images": [
+        {
+          "src": "assets/images/br-pants-906689042-01.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 1",
+          "source": "https://content.gapinc.com/b/0063/231/389/cn63231389.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-02.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 2",
+          "source": "https://content.gapinc.com/b/0063/227/860/cn63227860.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-03.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 3",
+          "source": "https://content.gapinc.com/b/0063/227/875/cn63227875.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-04.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 4",
+          "source": "https://content.gapinc.com/b/0063/446/560/cn63446560.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-05.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 5",
+          "source": "https://content.gapinc.com/b/0063/227/909/cn63227909.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-06.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 6",
+          "source": "https://content.gapinc.com/b/0063/227/948/cn63227948.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-07.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 7",
+          "source": "https://content.gapinc.com/b/0063/697/644/cn63697644.png?width=1440"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color still gallery; retailer photography. Source links retained for every image.",
+      "materialCaveat": "Corduroy, not smooth wool. 30W / 32L label in stock, but actual inseam is 30″.",
+      "attribution": "Fresh US exact Black selected waist 30W / length 32L; both selected, enabled, aria-disabled=false; Add to Bag enabled. The retailer’s size chart explicitly says 32-inch label = 30-inch actual inseam; 34-inch label = 32-inch actual inseam, but 34L is not offered on this selected black page. No exact 30 × 32 actual-inseam match. Pleated corduroy is less formal and more textured than the reference. Complete seven exposed gallery stills, with position 2 reserved for video; all still images retained.",
+      "facts": {
+        "Fabric": "100% cotton; unlined; trims/thread unspecified",
+        "Price": "$148 USD, excluding tax and shipping",
+        "Fit": "Loose hips; straight leg; front pleats; 20″ leg opening (size 32)",
+        "Status": "Black 30W / 32L available; retailer measures 32L at 30″ inseam"
+      },
+      "sources": [
+        "contender-43"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=9066890423032&vid=1#pdp-page-content"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "exact30x32": false,
+        "checked": "2026-10-18"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "contender-01",
+      "url": "https://rykerclothingco.com/products/the-forge-gym-tee-45-organic-cotton-55-hemp?variant=53027686154562",
+      "title": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — supplied listing",
+      "type": "First-party live product",
+      "note": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified. Shared retailer gallery exposes seven slides. Retained the black tee image and two color-neutral material/brand graphics; excluded navy packshot, two blue-toned model images (ChatGPT_Image filenames), and grey-shirt brand graphic. Marketing claims are retailer claims, not independent evidence."
+    },
+    {
+      "id": "contender-02",
+      "url": "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3",
+      "title": "Denim Button-Up Shirt — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Cream; product ID 63144867. Details & Material expanded; S and Regular selected. Embedded exact variant 670559727: Available, quantity 371. Complete orderedImages gallery extracted for selected product only."
+    },
+    {
+      "id": "contender-05",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11",
+      "title": "100% Cotton Waffle Roll Neck Crew Sweater — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Black; product ID 63491867. Details & Material expanded; S and Regular selected. Embedded exact variant 672277336: Available, quantity 66. Complete orderedImages gallery extracted for selected product only."
+    },
+    {
+      "id": "contender-06",
+      "url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?faceout=model&seq=10&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=15",
+      "title": "Classic Essential Tee — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Light Heather Grey; product ID 62421858. Details & Material expanded; S and Regular selected. Embedded exact variant 665781358: Available, quantity 714. Complete orderedImages gallery extracted for selected product only."
+    },
+    {
+      "id": "contender-07",
+      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=14",
+      "title": "100% Merino Wool Crew Sweater — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Gray; product ID 63757998. Details & Material expanded; S and Regular selected. Embedded exact variant 672276069: Available, quantity 33. Complete orderedImages gallery extracted for selected product only."
+    },
+    {
+      "id": "contender-08",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?faceout=prod&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=175",
+      "title": "100% Cashmere Rib Beanie — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Light Brown; product ID 63718392. Details & Material expanded; One-size variant. Embedded exact variant 671317869: Available, quantity 1218. Complete orderedImages gallery extracted for selected product only."
+    },
+    {
+      "id": "contender-09",
+      "url": "https://www.cos.com/en-us/men/menswear/shirts/casualshirts/product/cotton-chambray-shirt-grey-mlange-1351093001",
+      "title": "COTTON-CHAMBRAY SHIRT — supplied listing",
+      "type": "First-party live US product",
+      "note": "Mac dedicated Brave returned COS patience page; fresh dedicated Linux Brave rendered the exact US product normally. Live US embedded product confirms $129, shell 100% cotton, and exact size stock. Official US size guide maps 14½ and 15 to S. Prior Thailand evidence retained as secondary provenance; US now verified. No CAPTCHA or human action required."
+    },
+    {
+      "id": "cos-regional",
+      "url": "https://th.cos.com/th_en/1351093001.html",
+      "title": "COS Thailand — exact article 1351093001",
+      "type": "First-party regional product",
+      "note": "US listing blocked. Composition and seven-image gallery verified from COS Thailand article 1351093001; Thailand price/stock do not establish US price or S availability."
+    },
+    {
+      "id": "contender-10",
+      "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
+      "title": "100% Wool High Neck Down Jacket — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. 100% polyamide lining; filling 80% grey duck down / 20% feather."
+    },
+    {
+      "id": "contender-11",
+      "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045&colorId=802",
+      "title": "Massimo Dutti — 100% Wool Pants With Waist Detail — Grey",
+      "type": "First-party live US product",
+      "note": "Exact supplied US URL rendered HTTP 200 with Grey selected: colorId 802, catentry 64340046; pelement 64340045 retained exactly. Live size-selector agrees with S/M/L SHOW and XL COMING_SOON. 100% wool outer shell; lining and trim fiber composition not disclosed. Elastic-back waist; exact W30 × L32 not verified."
+    },
+    {
+      "id": "contender-12",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609",
+      "title": "The Ojai Jacket in Soil Corduroy — supplied listing",
+      "type": "First-party live product",
+      "note": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified."
+    },
+    {
+      "id": "contender-13",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men",
+      "title": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal / S",
+      "type": "First-party live product",
+      "note": "Exact selected Charcoal / S rendered HTTP 200 with enabled Add to Bag. Variant 111783, SKU LB127122; available inventory 50; atcDisabled=false. Numeric composition verified in DETAILS: 100% organic cotton. Complete 6 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale."
+    },
+    {
+      "id": "contender-14",
+      "url": "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008?pelement=66534132",
+      "title": "Double-Pleated Relaxed Fit Pants — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Navy Blue is outside the gray-to-black pants preference. Exact 30 × 32 not verified."
+    },
+    {
+      "id": "contender-15",
+      "url": "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144",
+      "title": "100% Wool Cable-Knit Sweater — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Wool composition excludes elastic; trim fibers unspecified."
+    },
+    {
+      "id": "contender-17",
+      "url": "https://www.massimodutti.com/us/100-wool-total-look-bomber-jacket-l02619357?pelement=65076165",
+      "title": "100% Wool Total Look Bomber Jacket — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector shows S available, consistent with isBuyable=true and visibilityValue=SHOW."
+    },
+    {
+      "id": "contender-18",
+      "url": "https://www.massimodutti.com/us/linen-total-look-zipup-jacket-l02625440?pelement=64760340",
+      "title": "Linen Total Look Zip-Up Jacket — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector explicitly marks S SOLD OUT; embedded isBuyable=true conflicts, so visible sold-out state takes precedence."
+    },
+    {
+      "id": "contender-19",
+      "url": "https://www.nordstrom.com/s/new-winter-ray-jacket/8769358?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=444445WH27",
+      "title": "New Winter Ray Jacket — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded."
+    },
+    {
+      "id": "contender-20",
+      "url": "https://www.nordstrom.com/s/marine-layer-weston-wax-canvas-barn-jacket/9183599?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444GYWC2",
+      "title": "Wax Canvas Barn Jacket — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded."
+    },
+    {
+      "id": "contender-21",
+      "url": "https://www.nordstrom.com/s/represent-anarchy-jacket/9352328?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444H83MW",
+      "title": "Anarchy Cotton Jacket — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded."
+    },
+    {
+      "id": "contender-22",
+      "url": "https://www.nordstrom.com/s/corduroy-overshirt/9009365?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444FWVYY",
+      "title": "Corduroy Overshirt — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded."
+    },
+    {
+      "id": "contender-23",
+      "url": "https://www.nordstrom.com/s/slim-fit-cotton-shirt-jacket/9210878?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FCoats+%26+Jackets&color=44444G27G4",
+      "title": "Slim Fit Cotton Shirt Jacket — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded."
+    },
+    {
+      "id": "contender-24",
+      "url": "https://www.nordstrom.com/s/mnml-cinch-sweatpants/9255106?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H4DFC",
+      "title": "Cinch Sweatpants — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
+    },
+    {
+      "id": "contender-25",
+      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444G23VY",
+      "title": "Relaxed-Fit Cotton Chinos — verified Black Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Black swatch coreChoiceId discovered on the live Nordstrom listing, then exact black URL verified HTTP 200 in registered dedicated Mac Brave. Black W30 × Regular selected in the live size menu; USD price, 100% cotton composition and exact SKU shipping stock checked. Complete eight-image Black orderedShots gallery retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
+    },
+    {
+      "id": "contender-26",
+      "url": "https://www.nordstrom.com/s/regular-fit-linen-button-up-shirt/9031022?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GJHPW",
+      "title": "Mavi Jeans — Regular Fit Linen Button-Up Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-27",
+      "url": "https://www.nordstrom.com/s/cotton-lounge-crewneck/8242946?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=4444457DWS",
+      "title": "LEISURE LAB — Cotton Lounge Crewneck",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-28",
+      "url": "https://www.nordstrom.com/s/slim-fit-pure-linen-shirt/8166383?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444444DUMM",
+      "title": "Charles Tyrwhitt — Slim Fit Pure Linen Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-29",
+      "url": "https://www.nordstrom.com/s/plain-pure-linen-shirt/8920844?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444657KC",
+      "title": "Charles Tyrwhitt — Plain Pure Linen Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-30",
+      "url": "https://www.nordstrom.com/s/checked-cotton-jacquard-shirt/9117564?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJW4",
+      "title": "COS — Checked Cotton Jacquard Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-30-composition",
+      "url": "https://www.cos.com/en-ie/men/menswear/shirts/casualshirts/product/checked-cotton-jacquard-shirt-white-1335745002",
+      "title": "COS white article 1335745002 — composition",
+      "type": "First-party regional composition supplement",
+      "note": "Exact white checked cotton-jacquard shirt; matching description and 72.5cm M back length. Embedded materialComposition: shell Cotton 100%. Used for composition only, not US price/stock."
+    },
+    {
+      "id": "contender-31",
+      "url": "https://www.nordstrom.com/s/marine-layer-luxe-jersey-shirt/9183662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GYW6P",
+      "title": "Marine Layer — Luxe Jersey Organic Cotton Button-Up Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-32",
+      "url": "https://www.nordstrom.com/s/relaxed-brushed-cotton-blend-shirt/9117257?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJAV",
+      "title": "COS — Relaxed Brushed Cotton-blend Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-33",
+      "url": "https://www.nordstrom.com/s/classic-fit-striped-oxford-shirt/9012956?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444655ME",
+      "title": "Polo Ralph Lauren — Classic Fit Striped Oxford Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-34",
+      "url": "https://www.nordstrom.com/s/david-donahue-linen-check-sport-shirt/8821942?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YX6U",
+      "title": "David Donahue — Linen Check Sport Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-35",
+      "url": "https://www.nordstrom.com/s/pacifica-button-up-shirt/8812979?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YL6U",
+      "title": "Marine Layer — Pacifica Button-Up Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-36",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=8711610223032&vid=1&pcid=1072457&cid=1072457&nav=meganav%3AMEN%3AMEN%27S+CLOTHING%3ADress+Pants#pdp-page-content",
+      "title": "Signature Italian Rustico Suit Pant — exact Charcoal Gray 30W / 32L selection",
+      "type": "First-party live product",
+      "note": "Exact full supplied PID 8711610223032 rendered in registered dedicated Mac Brave. Charcoal Gray, 30W and 32L checked on arrival; both size inputs aria-disabled=true; shipping Out of Stock. Fabric & care and eight selected-color images captured. No purchase attempted. 100% wool shell qualifies; unlined. Trims/thread unspecified. Selected 30W / 32L is out of stock. Size guide also lists Regular inseam 31.5 inches, conflicting with selector 32L; exact finished inseam not confirmed."
+    },
+    {
+      "id": "contender-37",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=906740002&vid=1&pcid=1016720&cid=1016720&nav=meganav%3AMEN%3AMEN%27S+CLOTHING%3ACoats+%26+Jackets#pdp-page-content",
+      "title": "Cotton Moto Sweater Jacket — Acorn Brown / Regular / S",
+      "type": "First-party live product",
+      "note": "Exact supplied PID 906740002 rendered in registered dedicated Mac Brave. Acorn Brown / Regular selected; size S explicitly selected, checked=true and aria-disabled=false; shipping In Stock. Fabric & care percentages and all four numbered selected-color gallery photos captured. No purchase attempted."
+    },
+    {
+      "id": "contender-38",
+      "url": "https://www.quince.com/men/stretch-traveler-5-pocket-pant?color=black&gender=men&size=30x32",
+      "title": "Comfort Stretch Traveler 5-Pocket Pants — Black / 30X32",
+      "type": "First-party live product",
+      "note": "Exact supplied Black / 30X32 URL rendered live with both options checked, $49.90 and In stock; Add to Bag enabled. Exact embedded variant 7031 / SKU LB22424 has available inventory 50, atcDisabled=false. DETAILS gives 98% cotton, 2% elastane. Complete exact variant mediaList retained."
+    },
+    {
+      "id": "contender-39",
+      "url": "https://www.quince.com/men/unstructured-midweight-cashmere-chore-blazer?color=black&gender=men",
+      "title": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black / S",
+      "type": "First-party live product",
+      "note": "Exact supplied Black URL rendered live; size S explicitly selected, Black and S checked and Add to Bag enabled with In stock text. Exact variant 101155 / SKU LB116494: inventory 10, atcDisabled=false. First-party DETAILS confirms 100% Grade-A Mongolian cashmere, unlined, genuine horn buttons. All eight exact-color variant mediaList images retained."
+    },
+    {
+      "id": "contender-40",
+      "url": "https://www.quince.com/men/100-organic-cotton-heavyweight-relaxed-fit-jersey-tee?color=heather-oatmeal&gender=men",
+      "title": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal / S",
+      "type": "First-party live product",
+      "note": "Exact supplied URL rendered HTTP 200 in dedicated Wren browser, Heather Oatmeal / S checked, In stock text and enabled Add to Bag. Variant 142961, SKU LB158300, inventory 50, atcDisabled=false. Selected-page DETAILS explicitly states Materials: 100% organic cotton and 345 gsm; no Heather Oatmeal blend exception is exposed in the details or exact variant. This is retailer-reported composition, not an independently tested fiber analysis. All five exact-color mediaList images retained; recommendations and other colors excluded."
+    },
+    {
+      "id": "contender-41",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=868178002&vid=1&pcid=75310&cid=1118162#pdp-page-content",
+      "title": "Tailored Slim-Fit Italian Wool Ventile Suit Pant — Utility Blue",
+      "type": "First-party live product",
+      "note": "Dedicated Wren browser rendered exact supplied URL, Utility Blue selected. Fabric & care: shell 100% wool; lining 100% cotton, half lined to knee. $179.97 from $230, final sale no returns/exchanges. With 30W selected, 32L is crossed out/unavailable and its input aria-disabled=true: requested 30W × 32L is unavailable. Size chart lists 32L actual inseam 31.5 inches. Eight selected-color gallery positions: seven photographs plus video poster in position 2; original video source retained as evidence. User selection retained despite stock and blue-color departure from usual dark-pants preference."
+    },
+    {
+      "id": "contender-42",
+      "url": "https://www.quince.com/men/australian-merino-wool-cable-crewneck-sweater?color=malted-toffee&gender=men",
+      "title": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee / S",
+      "type": "First-party live product",
+      "note": "Exact selected Malted Toffee / S rendered HTTP 200 with enabled Add to Bag. Variant 66261, SKU LB81600; available inventory 38; atcDisabled=false. Numeric composition verified in DETAILS: 100% Australian merino wool. Complete 7 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale."
+    },
+    {
+      "id": "contender-43",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9066890423032&vid=1#pdp-page-content",
+      "title": "Loose Pleated Corduroy Pant — Black 30W / 32L (30-inch actual inseam)",
+      "type": "First-party live product",
+      "note": "Fresh US exact Black selected waist 30W / length 32L; both selected, enabled, aria-disabled=false; Add to Bag enabled. The retailer’s size chart explicitly says 32-inch label = 30-inch actual inseam; 34-inch label = 32-inch actual inseam, but 34L is not offered on this selected black page. No exact 30 × 32 actual-inseam match. Pleated corduroy is less formal and more textured than the reference. Complete seven exposed gallery stills, with position 2 reserved for video; all still images retained."
+    }
+  ],
+  "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
+  "caveat": "Previously blocked listings recovered: Abercrombie and Massimo Dutti on dedicated Mac Brave, COS US on dedicated Linux Brave. Ryker S/Black sold out; COS S/15 has two left while S/14½ is sold out. Selected pants retain color/style and exact-30 × 32 caveats. No human browser action needed. New wool jacket is Deep Blue with viscose lining; linen jacket is Grey Blue and S sold out. Both retained as explicitly selected.",
+  "sourceCoverage": {
+    "linkOccurrences": 19,
+    "distinctURLs": 18,
+    "products": 40,
+    "originalExcalidrawOccurrences": 14,
+    "chatAdditions": 5,
+    "removedProductIds": [
+      "contender-03",
+      "contender-04",
+      "contender-16"
+    ]
+  },
+  "defaultSort": "merchant",
+  "merchantOrder": [
+    "UNIQLO",
+    "ZARA",
+    "Abercrombie",
+    "ARKET",
+    "COS",
+    "Massimo Dutti",
+    "REISS",
+    "mfpen",
+    "Les Deux",
+    "Manière De Voir",
+    "Our Legacy",
+    "Officine Générale",
+    "Studio Nicholson",
+    "LEMAIRE",
+    "MR PORTER",
+    "Sandro",
+    "A.P.C.",
+    "Norse Projects"
+  ],
+  "showCollectionNotes": false,
+  "defaultHiddenProductIds": [
+    "contender-32"
+  ]
+}
