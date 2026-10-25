@@ -1668,6 +1668,147 @@
         "gallery": true,
         "checked": "2026-10-18"
       }
+    },
+    {
+      "id": "contender-44",
+      "name": "Fred Perry · Cotton Trousers T2301",
+      "store": "PRM · Fred Perry",
+      "brand": "Fred Perry",
+      "url": "https://prm.com/us/p/fred-perry-trousers-cotton-men-s-black-regular-waist-t2301-99630",
+      "color": "Black · 198",
+      "unitPriceUSD": 189.9,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "summary": "",
+      "verdict": "User selection",
+      "category": "Pants",
+      "materialCaveat": "Waist 30 in stock; inseam unspecified (not verified 30 × 32).",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "Waist30 selected; inseam unspecified",
+        "Availability": "Waist 30 in stock; inseam unspecified (not verified 30 × 32).",
+        "Fit": "Regular fit; straight leg",
+        "Status": "Waist 30 in stock; inseam unspecified (not verified 30 × 32).",
+        "Price": "$189.90 USD"
+      },
+      "images": [
+        {
+          "src": "assets/images/contender-44-black-01.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 1",
+          "source": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F1.avif?v=1792492608"
+        },
+        {
+          "src": "assets/images/contender-44-black-02.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 2",
+          "source": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F2.avif?v=1792492756"
+        },
+        {
+          "src": "assets/images/contender-44-black-03.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 3",
+          "source": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F3.avif?v=1792492756"
+        },
+        {
+          "src": "assets/images/contender-44-black-04.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 4",
+          "source": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F4.avif?v=1792492608"
+        },
+        {
+          "src": "assets/images/contender-44-black-05.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 5",
+          "source": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F5.avif?v=1792492756"
+        }
+      ],
+      "image": "assets/images/contender-44-black-01.webp",
+      "imageAlt": "Fred Perry T2301.198 black — retailer gallery 1",
+      "imageNote": "All five exposed exact T2301.198 black product-gallery images. Sample-size32 outer leg105cm does not establish size30 inseam.",
+      "sources": [
+        "contender-44"
+      ],
+      "attribution": "Exact user-selected URL and black gallery refreshed in rendered US storefront; Waist 30 in stock; inseam unspecified (not verified 30 × 32).",
+      "sourceLinks": [
+        "https://prm.com/us/p/fred-perry-trousers-cotton-men-s-black-regular-waist-t2301-99630"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-25"
+      }
+    },
+    {
+      "id": "contender-45",
+      "name": "ASKET · The Linen Trousers",
+      "store": "ASKET",
+      "brand": "ASKET",
+      "url": "https://www.asket.com/en-us/mens-linen-trousers-black",
+      "color": "Black",
+      "unitPriceUSD": 230,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "summary": "",
+      "verdict": "User selection",
+      "category": "Pants",
+      "materialCaveat": "W30 / L32 unavailable; Notify Me — Available Spring 2027.",
+      "facts": {
+        "Fabric": "100% linen; pocket lining100% organic cotton",
+        "Size": "W30 / L32",
+        "Availability": "W30 / L32 unavailable; Notify Me — Available Spring 2027.",
+        "Fit": "straight; W30 / L32",
+        "Status": "W30 / L32 unavailable; Notify Me — Available Spring 2027.",
+        "Price": "$230 USD — current v2.0 listing, not the $140 archive"
+      },
+      "images": [
+        {
+          "src": "assets/images/contender-45-black-01.webp",
+          "alt": "The Linen Trousers — retailer black gallery 1",
+          "source": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_1-original.jpg?auto=format&q=80&w=1280"
+        },
+        {
+          "src": "assets/images/contender-45-black-02.webp",
+          "alt": "The Linen Trousers — retailer black gallery 2",
+          "source": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_2-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-45-black-03.webp",
+          "alt": "The Linen Trousers — retailer black gallery 3",
+          "source": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_3-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-45-black-04.webp",
+          "alt": "The Linen Trousers — retailer black gallery 4",
+          "source": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_4-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-45-black-05.webp",
+          "alt": "The Linen Trousers — retailer black gallery 5",
+          "source": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_5-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-45-black-06.webp",
+          "alt": "The Linen Trousers — retailer black gallery 6",
+          "source": "https://images.asket.com/products/images/456_LI4-MQ-BLA-thumbnail_1-original.jpg"
+        }
+      ],
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "sources": [
+        "contender-45"
+      ],
+      "attribution": "Exact user-selected URL and black gallery refreshed in rendered US storefront; W30 / L32 unavailable; Notify Me — Available Spring 2027.",
+      "image": "assets/images/contender-45-black-01.webp",
+      "imageAlt": "The Linen Trousers — retailer black gallery 1",
+      "sourceLinks": [
+        "https://www.asket.com/en-us/mens-linen-trousers-black"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-25"
+      }
     }
   ],
   "sources": [
@@ -1838,6 +1979,20 @@
       "title": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee / S",
       "type": "First-party live product",
       "note": "Exact selected Malted Toffee / S rendered HTTP 200 with enabled Add to Bag. Variant 66261, SKU LB81600; available inventory 38; atcDisabled=false. Numeric composition verified in DETAILS: 100% Australian merino wool. Complete 7 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale."
+    },
+    {
+      "id": "contender-44",
+      "url": "https://prm.com/us/p/fred-perry-trousers-cotton-men-s-black-regular-waist-t2301-99630",
+      "title": "Fred Perry · Cotton Trousers T2301",
+      "type": "First-party rendered selected variant",
+      "note": "Exact user-selected URL and black gallery refreshed in rendered US storefront; Waist 30 in stock; inseam unspecified (not verified 30 × 32)."
+    },
+    {
+      "id": "contender-45",
+      "url": "https://www.asket.com/en-us/mens-linen-trousers-black",
+      "title": "ASKET · The Linen Trousers",
+      "type": "First-party rendered selected variant",
+      "note": "Exact user-selected URL and black gallery refreshed in rendered US storefront; W30 / L32 unavailable; Notify Me — Available Spring 2027."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -1845,7 +2000,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 24,
+    "products": 26,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
@@ -1855,7 +2010,34 @@
     ]
   },
   "defaultSort": "curated",
-  "defaultOrderProductIds": ["contender-15", "contender-02", "contender-06", "contender-07", "contender-01", "contender-14", "contender-05", "contender-08", "contender-11", "contender-23", "contender-29", "contender-26", "contender-27", "contender-20", "contender-25", "contender-38", "contender-31", "contender-36", "contender-12", "contender-10", "contender-17", "contender-39", "contender-24", "contender-42"],
+  "defaultOrderProductIds": [
+    "contender-15",
+    "contender-02",
+    "contender-06",
+    "contender-07",
+    "contender-01",
+    "contender-14",
+    "contender-05",
+    "contender-08",
+    "contender-11",
+    "contender-23",
+    "contender-29",
+    "contender-26",
+    "contender-27",
+    "contender-20",
+    "contender-25",
+    "contender-38",
+    "contender-31",
+    "contender-36",
+    "contender-12",
+    "contender-10",
+    "contender-17",
+    "contender-39",
+    "contender-24",
+    "contender-42",
+    "contender-44",
+    "contender-45"
+  ],
   "merchantOrder": [
     "UNIQLO",
     "ZARA",
