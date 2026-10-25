@@ -1809,6 +1809,80 @@
         "gallery": true,
         "checked": "2026-10-25"
       }
+    },
+    {
+      "id": "contender-46",
+      "name": "ASKET · The Linen Trousers v1.0 — Archive",
+      "store": "ASKET",
+      "brand": "ASKET",
+      "url": "https://www.asket.com/en-us/archive-linen-trousers-archive-black",
+      "color": "Black",
+      "unitPriceUSD": 140,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "summary": "",
+      "verdict": "User selection",
+      "category": "Pants",
+      "materialCaveat": "W30/L32 in stock. Manufacturer chart:81cm inseam; nominal32in.",
+      "facts": {
+        "Fabric": "100% linen; pocket lining100% organic cotton",
+        "Size": "W30 / L32 selected; nominal 32-inch length, manufacturer chart 81 cm inseam",
+        "Availability": "W30 and L32 selected; Add to cart enabled",
+        "Fit": "Regular fit; straight-cut leg",
+        "Status": "In stock",
+        "Deals": "Archive price$140 (was$200)",
+        "Price": "$140 USD archive price (was $200); distinct from current $230 version"
+      },
+      "images": [
+        {
+          "src": "assets/images/contender-46-black-01.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 1",
+          "source": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_1-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-46-black-02.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 2",
+          "source": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_3-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-46-black-03.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 3",
+          "source": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_2-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-46-black-04.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 4",
+          "source": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_4-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-46-black-05.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 5",
+          "source": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_5-original.jpg"
+        },
+        {
+          "src": "assets/images/contender-46-black-06.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 6",
+          "source": "https://images.asket.com/products/images/465_LI3-AK-BLA-thumbnail-original.jpg"
+        }
+      ],
+      "image": "assets/images/contender-46-black-01.webp",
+      "imageAlt": "Archive Linen Trousers — retailer black gallery 1",
+      "imageNote": "All six exact black gallery images exposed on product page. Manufacturer claims; no independent garment testing.",
+      "sources": [
+        "contender-46"
+      ],
+      "attribution": "Exact user-selected archive addition; W30 and L32 selected with enabled Add to cart. Separate archived v1.0 listing, not a substitute for current $230 trousers. Manufacturer claims; chart inseam 81 cm.",
+      "sourceLinks": [
+        "https://www.asket.com/en-us/archive-linen-trousers-archive-black"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-25"
+      }
     }
   ],
   "sources": [
@@ -1993,6 +2067,13 @@
       "title": "ASKET · The Linen Trousers",
       "type": "First-party rendered selected variant",
       "note": "Exact user-selected URL and black gallery refreshed in rendered US storefront; W30 / L32 unavailable; Notify Me — Available Spring 2027."
+    },
+    {
+      "id": "contender-46",
+      "url": "https://www.asket.com/en-us/archive-linen-trousers-archive-black",
+      "title": "ASKET · The Linen Trousers v1.0 — Archive",
+      "type": "First-party rendered selected variant",
+      "note": "Exact user-selected archive addition; W30 and L32 selected with enabled Add to cart. Separate archived v1.0 listing, not a substitute for current $230 trousers. Manufacturer claims; chart inseam 81 cm."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -2000,7 +2081,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 26,
+    "products": 27,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
@@ -2036,7 +2117,8 @@
     "contender-24",
     "contender-42",
     "contender-44",
-    "contender-45"
+    "contender-45",
+    "contender-46"
   ],
   "merchantOrder": [
     "UNIQLO",
